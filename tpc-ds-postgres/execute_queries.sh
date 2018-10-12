@@ -6,3 +6,4 @@ do
     echo "Executing `basename ${q_file%.*}`"
     psql -d tpcds -A -t -F "," < $q_file > "$OUTPUT_DIR/`basename ${q_file%.*}`.res" 2> "$OUTPUT_DIR/`basename ${q_file%.*}`.err"
 done;
+
