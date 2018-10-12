@@ -1,0 +1,15 @@
+Download TCP-DS from https://github.com/gregrahn/tpcds-kit
+Build the tool: 
+Generate the dataset: ./dsdgen -dir /tmp/dsd -scale 1  -verbose y -terminate n
+Load the data in MySQL: http://eastcirclek.blogspot.com/2016/12/loading-tpc-ds-data-into-mysql.html
+
+
+
+
+
+1. Generate and Load the data for 1G
+2. Generate the queries: 
+cd <tpc-ds-toolkit-version>/tools
+./dsqgen -VERBOSE Y -DIALECT <dialectname> -DIRECTORY <query-template-dir> -SCALE <scale-factor> -OUTPUT_DIR <output-dir>
+2.1 Convert them using online tool: http://www.sqlines.com/online 
+3. Run the queries and verify the result set against provided.

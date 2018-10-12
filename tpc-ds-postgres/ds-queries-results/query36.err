@@ -1,0 +1,3 @@
+ERROR:  column "lochierarchy" does not exist
+LINE 25:   ,case when lochierarchy = 0 then i_category end
+                      ^
