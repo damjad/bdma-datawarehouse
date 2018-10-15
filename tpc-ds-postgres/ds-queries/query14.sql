@@ -30,10 +30,10 @@ with  cross_items as
      ,date_dim d3
  where ws_item_sk = iws.i_item_sk
    and ws_sold_date_sk = d3.d_date_sk
-   and d3.d_year between 1998 AND 1998 + 2)
- where i_brand_id = brand_id
-      and i_class_id = class_id
-      and i_category_id = category_id
+   and d3.d_year between 1998 AND 1998 + 2) as SS
+ where SS.i_brand_id = SS.brand_id
+      and SS.i_class_id = SS.class_id
+      and SS.i_category_id = SS.category_id
 ),
  avg_sales as
  (select avg(quantity*list_price) average_sales

@@ -1,14 +1,14 @@
 -- start query 1 in stream 0 using template query2.tpl
 with wscs as
- (select sold_date_sk
-        ,sales_price
+ (select WS.sold_date_sk
+        , WS.sales_price
   from (select ws_sold_date_sk sold_date_sk
               ,ws_ext_sales_price sales_price
         from web_sales 
         union all
         select cs_sold_date_sk sold_date_sk
               ,cs_ext_sales_price sales_price
-        from catalog_sales)),
+        from catalog_sales) AS WS),
  wswscs as 
  (select d_week_seq,
         sum(case when (d_day_name='Sunday') then sales_price else null end) sun_sales,
