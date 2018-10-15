@@ -14,7 +14,7 @@ select  i_item_id
    and i_category in ('Jewelry', 'Sports', 'Books')
    and cs_sold_date_sk = d_date_sk
  and d_date between cast('2001-01-12' as date) 
- 				and (cast('2001-01-12' as date) + 30 days)
+ 				and (cast('2001-01-12' as date) + 30*INTERVAL '1 day')
  group by i_item_id
          ,i_item_desc 
          ,i_category
