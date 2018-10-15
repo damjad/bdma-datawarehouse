@@ -11,7 +11,7 @@ with  cross_items as
  where ss_item_sk = iss.i_item_sk
    and ss_sold_date_sk = d1.d_date_sk
    and d1.d_year between 1998 AND 1998 + 2
- intersect 
+ intersect
  select ics.i_brand_id
      ,ics.i_class_id
      ,ics.i_category_id
@@ -31,9 +31,9 @@ with  cross_items as
  where ws_item_sk = iws.i_item_sk
    and ws_sold_date_sk = d3.d_date_sk
    and d3.d_year between 1998 AND 1998 + 2) as SS
- where SS.i_brand_id = SS.brand_id
-      and SS.i_class_id = SS.class_id
-      and SS.i_category_id = SS.category_id
+ where i_brand_id = SS.brand_id
+      and i_class_id = SS.class_id
+      and i_category_id = SS.category_id
 ),
  avg_sales as
  (select avg(quantity*list_price) average_sales
@@ -43,13 +43,13 @@ with  cross_items as
            ,date_dim
        where ss_sold_date_sk = d_date_sk
          and d_year between 1998 and 1998 + 2
-       union all 
-       select cs_quantity quantity 
+       union all
+       select cs_quantity quantity
              ,cs_list_price list_price
        from catalog_sales
            ,date_dim
        where cs_sold_date_sk = d_date_sk
-         and d_year between 1998 and 1998 + 2 
+         and d_year between 1998 and 1998 + 2
        union all
        select ws_quantity quantity
              ,ws_list_price list_price
@@ -68,7 +68,7 @@ with  cross_items as
        where ss_item_sk in (select ss_item_sk from cross_items)
          and ss_item_sk = i_item_sk
          and ss_sold_date_sk = d_date_sk
-         and d_year = 1998+2 
+         and d_year = 1998+2
          and d_moy = 11
        group by i_brand_id,i_class_id,i_category_id
        having sum(ss_quantity*ss_list_price) > (select average_sales from avg_sales)
@@ -80,7 +80,7 @@ with  cross_items as
        where cs_item_sk in (select ss_item_sk from cross_items)
          and cs_item_sk = i_item_sk
          and cs_sold_date_sk = d_date_sk
-         and d_year = 1998+2 
+         and d_year = 1998+2
          and d_moy = 11
        group by i_brand_id,i_class_id,i_category_id
        having sum(cs_quantity*cs_list_price) > (select average_sales from avg_sales)
@@ -169,11 +169,11 @@ with  cross_items as
                            ,last_year.i_class_id ly_class
                            ,last_year.i_category_id ly_category
                            ,last_year.sales ly_sales
-                           ,last_year.number_sales ly_number_sales 
+                           ,last_year.number_sales ly_number_sales
  from
  (select 'store' channel, i_brand_id,i_class_id,i_category_id
         ,sum(ss_quantity*ss_list_price) sales, count(*) number_sales
- from store_sales 
+ from store_sales
      ,item
      ,date_dim
  where ss_item_sk in (select ss_item_sk from cross_items)

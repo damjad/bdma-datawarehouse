@@ -1,3 +1,0 @@
-ERROR:  syntax error at or near "days"
-LINE 12:            (cast('1999-5-01' as date) + 60 days)
-                                                    ^
