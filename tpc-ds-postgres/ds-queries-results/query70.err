@@ -1,3 +1,0 @@
-ERROR:  column "lochierarchy" does not exist
-LINE 33:   ,case when lochierarchy = 0 then s_state end
-                      ^

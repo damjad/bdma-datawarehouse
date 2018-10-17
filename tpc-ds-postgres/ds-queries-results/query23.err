@@ -1,8 +1,0 @@
-ERROR:  subquery in FROM must have an alias
-LINE 13:   from (select c_customer_sk,sum(ss_quantity*ss_sales_price)...
-                ^
-HINT:  For example, FROM (SELECT ...) [AS] foo.
-ERROR:  subquery in FROM must have an alias
-LINE 13:   from (select c_customer_sk,sum(ss_quantity*ss_sales_price)...
-                ^
-HINT:  For example, FROM (SELECT ...) [AS] foo.
