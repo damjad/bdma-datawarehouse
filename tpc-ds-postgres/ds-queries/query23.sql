@@ -10,7 +10,7 @@ with frequent_ss_items as
   group by substr(i_item_desc,1,30),i_item_sk,d_date
   having count(*) >4),
  max_store_sales as
- (select max(csales) tpcds_cmax 
+ (select max(S.csales) tpcds_cmax 
   from (select c_customer_sk,sum(ss_quantity*ss_sales_price) csales
         from store_sales
             ,customer
@@ -18,7 +18,7 @@ with frequent_ss_items as
         where ss_customer_sk = c_customer_sk
          and ss_sold_date_sk = d_date_sk
          and d_year in (1999,1999+1,1999+2,1999+3) 
-        group by c_customer_sk)),
+        group by c_customer_sk) as S),
  best_ss_customer as
  (select c_customer_sk,sum(ss_quantity*ss_sales_price) ssales
   from store_sales
@@ -29,7 +29,7 @@ with frequent_ss_items as
   *
 from
  max_store_sales))
-  select  sum(sales)
+  select  sum(C.sales)
  from (select cs_quantity*cs_list_price sales
        from catalog_sales
            ,date_dim 
@@ -46,7 +46,7 @@ from
          and d_moy = 1 
          and ws_sold_date_sk = d_date_sk 
          and ws_item_sk in (select item_sk from frequent_ss_items)
-         and ws_bill_customer_sk in (select c_customer_sk from best_ss_customer)) 
+         and ws_bill_customer_sk in (select c_customer_sk from best_ss_customer)) as C
  limit 100;
 with frequent_ss_items as
  (select substr(i_item_desc,1,30) itemdesc,i_item_sk item_sk,d_date solddate,count(*) cnt
@@ -59,7 +59,7 @@ with frequent_ss_items as
   group by substr(i_item_desc,1,30),i_item_sk,d_date
   having count(*) >4),
  max_store_sales as
- (select max(csales) tpcds_cmax
+ (select max(G.csales) tpcds_cmax
   from (select c_customer_sk,sum(ss_quantity*ss_sales_price) csales
         from store_sales
             ,customer
@@ -67,7 +67,7 @@ with frequent_ss_items as
         where ss_customer_sk = c_customer_sk
          and ss_sold_date_sk = d_date_sk
          and d_year in (1999,1999+1,1999+2,1999+3)
-        group by c_customer_sk)),
+        group by c_customer_sk)as G),
  best_ss_customer as
  (select c_customer_sk,sum(ss_quantity*ss_sales_price) ssales
   from store_sales
@@ -77,7 +77,7 @@ with frequent_ss_items as
   having sum(ss_quantity*ss_sales_price) > (95/100.0) * (select
   *
  from max_store_sales))
-  select  c_last_name,c_first_name,sales
+  select  U.c_last_name,U.c_first_name,U.sales
  from (select c_last_name,c_first_name,sum(cs_quantity*cs_list_price) sales
         from catalog_sales
             ,customer
@@ -100,7 +100,7 @@ with frequent_ss_items as
          and ws_item_sk in (select item_sk from frequent_ss_items)
          and ws_bill_customer_sk in (select c_customer_sk from best_ss_customer)
          and ws_bill_customer_sk = c_customer_sk
-       group by c_last_name,c_first_name) 
+       group by c_last_name,c_first_name)  as U
      order by c_last_name,c_first_name,sales
   limit 100;
 
