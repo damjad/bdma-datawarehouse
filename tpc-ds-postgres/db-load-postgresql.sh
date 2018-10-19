@@ -5,5 +5,6 @@ ls $DIR/*.dat | while read file; do
     echo "Processing file: $file and table: $table"
     psql tpcds -q -c "TRUNCATE $table"
     psql tpcds -c "\\copy $table FROM '$file' CSV DELIMITER '|'"
+    #rm -f $pipe
 done
 
