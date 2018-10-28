@@ -9,7 +9,7 @@ where
 i_manufact_id = 350
 and i_item_sk = ws_item_sk 
 and d_date between '2000-01-27' and 
-        date_add(cast('2000-01-27' as date), 90 )
+        (cast('2000-01-27' as date)+  90*INTERVAL '1 day')
 and d_date_sk = ws_sold_date_sk 
 and ws_ext_discount_amt  
      > ( 
@@ -21,7 +21,7 @@ and ws_ext_discount_amt
          WHERE 
               ws_item_sk = i_item_sk 
           and d_date between '2000-01-27' and 
-        date_add(cast('2000-01-27' as date), 90 )
+        (cast('2000-01-27' as date)+  90*INTERVAL '1 day')
           and d_date_sk = ws_sold_date_sk 
       ) 
 order by sum(ws_ext_discount_amt)

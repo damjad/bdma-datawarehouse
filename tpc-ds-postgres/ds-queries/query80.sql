@@ -12,7 +12,7 @@ with ssr as
      promotion
  where ss_sold_date_sk = d_date_sk
        and d_date between cast('2000-08-23' as date) 
-                  and date_add(cast('2000-08-23' as date), 30 )
+                  and (cast('2000-08-23' as date)+ 30 * INTERVAL '1 day')
        and ss_store_sk = s_store_sk
        and ss_item_sk = i_item_sk
        and i_current_price > 50
@@ -33,7 +33,7 @@ with ssr as
      promotion
  where cs_sold_date_sk = d_date_sk
        and d_date between cast('2000-08-23' as date) 
-                  and date_add(cast('2000-08-23' as date), 30 )
+                  and (cast('2000-08-23' as date)+ 30 * INTERVAL '1 day')
         and cs_catalog_page_sk = cp_catalog_page_sk
        and cs_item_sk = i_item_sk
        and i_current_price > 50
@@ -54,7 +54,7 @@ group by cp_catalog_page_id)
      promotion
  where ws_sold_date_sk = d_date_sk
        and d_date between cast('2000-08-23' as date) 
-                  and date_add(cast('2000-08-23' as date), 30 )
+                  and (cast('2000-08-23' as date)+ 30 * INTERVAL '1 day')
         and ws_web_site_sk = web_site_sk
        and ws_item_sk = i_item_sk
        and i_current_price > 50
@@ -68,21 +68,21 @@ group by web_site_id)
         , sum(profit) as profit
  from 
  (select 'store channel' as channel
-        , concat ('store' , store_id ) as id
+        , 'store' || store_id as id
         , sales
         , returns
         , profit
  from   ssr
  union all
  select 'catalog channel' as channel
-        , concat ('catalog_page' , catalog_page_id ) as id
+        , 'catalog_page' || catalog_page_id as id
         , sales
         , returns
         , profit
  from  csr
  union all
  select 'web channel' as channel
-        , concat ('web_site' , web_site_id ) as id
+        , 'web_site' || web_site_id as id
         , sales
         , returns
         , profit
