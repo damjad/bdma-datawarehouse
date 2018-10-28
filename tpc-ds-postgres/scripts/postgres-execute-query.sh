@@ -1,3 +1,7 @@
+#!/usr/bin/env bash
+# For running a query in tpcds database.
+# USAGE: ./postgres-execute-query.sh <OUTPUT_DIR> <QUERY_FILE>
+
 q_file=$2
 OUTPUT_DIR=$1
 echo "Started executing `basename ${q_file%.*}`"

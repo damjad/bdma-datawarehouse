@@ -1,3 +1,10 @@
+#!/usr/bin/env bash
+# For loading the csv files tpc ds data into the database using n cores. Using n cores instead of 1 increases the
+# throughput of loading the data.
+#
+# USAGE: ./postgres-db-load.sh 2
+# where 2 is the number of cpus.
+
 SCHEMA_DIR=/mnt/1717A37A1971CE02/WorkSpaces/BDMA/dwh/bdma-datawarehouse/tpc-ds-postgres/tpcds-kit/tools
 DATA_DIR=/mnt/1717A37A1971CE02/WorkSpaces/BDMA/dwh/bdma-datawarehouse/tpc-ds-postgres/ds-data
 SCRIPT_DIR=/mnt/1717A37A1971CE02/WorkSpaces/BDMA/dwh/bdma-datawarehouse/tpc-ds-postgres/scripts
