@@ -5,9 +5,10 @@
 # USAGE: ./postgres-execute-queries.sh 2
 # where 2 is the number of cpus.
 
-QUERY_DIR=/mnt/1717A37A1971CE02/WorkSpaces/BDMA/dwh/bdma-datawarehouse/tpc-ds-postgres/ds-queries-tmp
-OUTPUT_DIR=/mnt/1717A37A1971CE02/WorkSpaces/BDMA/dwh/bdma-datawarehouse/tpc-ds-postgres/ds-queries-results-tmp
+QUERY_DIR=/mnt/1717A37A1971CE02/WorkSpaces/BDMA/dwh/bdma-datawarehouse/tpc-ds-postgres/ds-queries
+OUTPUT_DIR=/mnt/1717A37A1971CE02/WorkSpaces/BDMA/dwh/bdma-datawarehouse/tpc-ds-postgres/ds-queries-results
 SCRIPT_DIR=/mnt/1717A37A1971CE02/WorkSpaces/BDMA/dwh/bdma-datawarehouse/tpc-ds-postgres/scripts
+DB_NAME=tpcds
 
 CORES=$1
 
@@ -20,7 +21,7 @@ set -e
 # Delete previous items
 rm -f $OUTPUT_DIR/*;
 
-ls $QUERY_DIR/query*.sql | xargs -P $CORES -n 1 $SCRIPT_DIR/postgres-execute-query.sh $OUTPUT_DIR
+ls $QUERY_DIR/query*.sql | xargs -P $CORES -n 1 $SCRIPT_DIR/postgres-execute-query.sh $OUTPUT_DIR $DB_NAME
  
  # Delete empty files.
  find $OUTPUT_DIR -size 0 -delete
