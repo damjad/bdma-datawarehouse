@@ -65,9 +65,9 @@ cross_sales as
          hd1.hd_income_band_sk = ib1.ib_income_band_sk and
          hd2.hd_income_band_sk = ib2.ib_income_band_sk and
          cd1.cd_marital_status <> cd2.cd_marital_status and
-         i_color in ('maroon','burnished','dim','steel','navajo','chocolate') and
-         i_current_price between 35 and 35 + 10 and
-         i_current_price between 35 + 1 and 35 + 15
+         i_color in ('purple','burlywood','indian','spring','floral','medium') and
+         i_current_price between 64 and 64 + 10 and
+         i_current_price between 64 + 1 and 64 + 15
 group by i_product_name
        ,i_item_sk
        ,s_store_name
@@ -103,19 +103,17 @@ select cs1.product_name
      ,cs2.s1 as s12
      ,cs2.s2 as s22
      ,cs2.s3 as s32
-     ,cs2.syear
-     ,cs2.cnt
+     ,cs2.syear as syear_2
+     ,cs2.cnt as cnt_2
 from cross_sales cs1,cross_sales cs2
 where cs1.item_sk=cs2.item_sk and
-     cs1.syear = 2000 and
-     cs2.syear = 2000 + 1 and
+     cs1.syear = 1999 and
+     cs2.syear = 1999 + 1 and
      cs2.cnt <= cs1.cnt and
      cs1.store_name = cs2.store_name and
      cs1.store_zip = cs2.store_zip
 order by cs1.product_name
        ,cs1.store_name
-       ,cs2.cnt
-       ,cs1.s1
-       ,cs2.s1;
+       ,cnt_2;
 
 -- end query 1 in stream 0 using template query64.tpl

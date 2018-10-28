@@ -52,7 +52,7 @@ order by
   other_chan_qty,
   other_chan_wholesale_cost,
   other_chan_sales_price,
-  ratio
+  round(ss_qty/(coalesce(ws_qty+cs_qty,1)),2)
 limit 100;
 
 -- end query 1 in stream 0 using template query78.tpl

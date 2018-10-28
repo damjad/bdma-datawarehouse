@@ -30,7 +30,7 @@ select  CH.channel, CH.item, CH.return_ratio, CH.return_rank, CH.currency_rank f
                          and ws.ws_net_paid > 0
                          and ws.ws_quantity > 0
                          and ws_sold_date_sk = d_date_sk
-                         and d_year = 2000
+                         and d_year = 2001
                          and d_moy = 12
  		group by ws.ws_item_sk
  	) in_web
@@ -73,7 +73,7 @@ select  CH.channel, CH.item, CH.return_ratio, CH.return_rank, CH.currency_rank f
                          and cs.cs_net_paid > 0
                          and cs.cs_quantity > 0
                          and cs_sold_date_sk = d_date_sk
-                         and d_year = 2000
+                         and d_year = 2001
                          and d_moy = 12
                  group by cs.cs_item_sk
  	) in_cat
@@ -112,7 +112,7 @@ select  CH.channel, CH.item, CH.return_ratio, CH.return_rank, CH.currency_rank f
                          and sts.ss_net_paid > 0 
                          and sts.ss_quantity > 0
                          and ss_sold_date_sk = d_date_sk
-                         and d_year = 2000
+                         and d_year = 2001
                          and d_moy = 12
  		group by sts.ss_item_sk
  	) in_store
@@ -123,7 +123,7 @@ select  CH.channel, CH.item, CH.return_ratio, CH.return_rank, CH.currency_rank f
  store.currency_rank <= 10
  )
  ) as CH
- order by 1,4,5,2
+ order by 1,4,5
  limit 100;
 
 -- end query 1 in stream 0 using template query49.tpl

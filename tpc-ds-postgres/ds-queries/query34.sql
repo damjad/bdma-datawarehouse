@@ -20,7 +20,7 @@ select c_last_name
 	then household_demographics.hd_dep_count/ household_demographics.hd_vehicle_count 
 	else null 
 	end)  > 1.2
-    and date_dim.d_year in (1998,1998+1,1998+2)
+    and date_dim.d_year in (1999,1999+1,1999+2)
     and store.s_county in ('Williamson County','Williamson County','Williamson County','Williamson County',
                            'Williamson County','Williamson County','Williamson County','Williamson County')
     group by ss_ticket_number,ss_customer_sk) dn,customer
