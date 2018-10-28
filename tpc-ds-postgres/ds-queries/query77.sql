@@ -54,7 +54,7 @@ with ss as
       date_dim,
       web_page
  where ws_sold_date_sk = d_date_sk
-       and d_date between castcast('2000-08-23' as date)
+       and d_date between cast('2000-08-23' as date)
                   and date_add(cast('2000-08-23' as date), 30 )
        and ws_web_page_sk = wp_web_page_sk
  group by wp_web_page_sk), 
