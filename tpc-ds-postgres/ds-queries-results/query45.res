@@ -1,16 +1,23 @@
-08283     ,Salem County,7.20
-08438     ,Penobscot County,5.69
-20191     ,Colonial Heights city,100.44
-29303     ,Saluda County,22.91
-34975     ,Washington County,45.42
-41675     ,Harrison County,51.88
-53788     ,Cass County,27.89
-66192     ,Dixon County,142.79
-70069     ,Cross County,62.89
-70534     ,Karnes County,164.91
-75752     ,Lipscomb County,20.54
-76060     ,Stephens County,107.31
-86871     ,Bannock County,25.15
-89145     ,Sevier County,13.10
-98579     ,Benton County,39.95
-,,73.34
+Timing is on.
+ca_zip,ca_city,sum
+10150     ,Bunker Hill,20.25
+16098     ,Five Points,18.05
+28048     ,Salem,9.81
+29584     ,Oakdale,41.21
+31289     ,Lincoln,1.26
+34975     ,Kingston,56.67
+36971     ,Wilson,202.63
+38354     ,Sulphur Springs,25.68
+44975     ,Kingston,12.62
+62808     ,Hamilton,85.39
+62812     ,Shady Grove,48.77
+66557     ,Arlington,2.68
+68252     ,Maple Grove,11.37
+69583     ,Jackson,54.42
+73003     ,Hillcrest,36.03
+78222     ,Clinton,85.87
+83683     ,Plainview,43.82
+84536     ,Friendship,64.44
+88370     ,Oak Grove,52.42
+(19 rows)
+Time: 381,183 ms

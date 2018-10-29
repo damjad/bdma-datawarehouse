@@ -1,100 +1,104 @@
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,eing,Unknown,7,2043.50,4944.1666666666666667
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,able,Unknown,2,2035.56,4732.8066666666666667
-Men                                               ,pants                                             ,exportiimporto #2                                 ,bar,Unknown,6,1689.53,4364.7375000000000000
-Men                                               ,pants                                             ,exportiimporto #2                                 ,eing,Unknown,4,1783.84,4269.0941666666666667
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,able,Unknown,5,2250.32,4732.8066666666666667
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,ation,Unknown,6,2271.73,4711.6091666666666667
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,eing,Unknown,4,2516.16,4944.1666666666666667
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,ese,Unknown,2,2212.92,4631.1641666666666667
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,ation,Unknown,7,2293.91,4711.6091666666666667
-Men                                               ,pants                                             ,exportiimporto #2                                 ,able,Unknown,4,2114.49,4471.4883333333333333
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,ese,Unknown,4,2335.75,4631.1641666666666667
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,able,Unknown,4,2471.45,4732.8066666666666667
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,eing,Unknown,6,2714.17,4944.1666666666666667
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,ought,Unknown,7,2385.30,4582.1933333333333333
-Men                                               ,pants                                             ,exportiimporto #2                                 ,ese,Unknown,2,2002.22,4191.2191666666666667
-Men                                               ,pants                                             ,exportiimporto #2                                 ,ought,Unknown,1,2013.92,4160.9358333333333333
-Men                                               ,pants                                             ,exportiimporto #2                                 ,ese,Unknown,6,2045.85,4191.2191666666666667
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,eing,Unknown,3,2818.29,4944.1666666666666667
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,ought,Unknown,2,2484.68,4582.1933333333333333
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,ation,Unknown,3,2617.58,4711.6091666666666667
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,ought,Unknown,4,2489.01,4582.1933333333333333
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,bar,Unknown,7,2473.32,4563.1208333333333333
-Men                                               ,pants                                             ,exportiimporto #2                                 ,bar,Unknown,3,2284.67,4364.7375000000000000
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,able,Unknown,6,2661.93,4732.8066666666666667
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,bar,Unknown,2,2518.10,4563.1208333333333333
-Men                                               ,pants                                             ,exportiimporto #2                                 ,eing,Unknown,2,2228.12,4269.0941666666666667
-Men                                               ,pants                                             ,exportiimporto #2                                 ,ought,Unknown,5,2123.43,4160.9358333333333333
-Men                                               ,pants                                             ,exportiimporto #2                                 ,able,Unknown,3,2442.59,4471.4883333333333333
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,eing,Unknown,2,2943.53,4944.1666666666666667
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,ation,Unknown,4,2730.48,4711.6091666666666667
-Men                                               ,pants                                             ,exportiimporto #2                                 ,ought,Unknown,4,2191.09,4160.9358333333333333
-Men                                               ,pants                                             ,exportiimporto #2                                 ,eing,Unknown,5,2303.47,4269.0941666666666667
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,ought,Unknown,3,2636.91,4582.1933333333333333
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,ation,Unknown,5,2780.52,4711.6091666666666667
-Men                                               ,pants                                             ,exportiimporto #2                                 ,ation,Unknown,4,2225.47,4154.9300000000000000
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,ese,Unknown,6,2703.10,4631.1641666666666667
-Men                                               ,pants                                             ,exportiimporto #2                                 ,ation,Unknown,2,2241.65,4154.9300000000000000
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,able,Unknown,3,2823.10,4732.8066666666666667
-Shoes                                             ,womens                                            ,amalgedu pack #1                                  ,ation,Unknown,2,752.99,2646.4675000000000000
-Men                                               ,pants                                             ,exportiimporto #2                                 ,able,Unknown,5,2601.64,4471.4883333333333333
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,able,Unknown,7,2864.95,4732.8066666666666667
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,ese,Unknown,3,2768.79,4631.1641666666666667
-Men                                               ,pants                                             ,exportiimporto #2                                 ,ese,Unknown,5,2401.63,4191.2191666666666667
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,bar,Unknown,6,2799.28,4563.1208333333333333
-Men                                               ,pants                                             ,exportiimporto #2                                 ,ation,Unknown,5,2421.85,4154.9300000000000000
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,ought,Unknown,6,2853.29,4582.1933333333333333
-Men                                               ,pants                                             ,exportiimporto #2                                 ,ought,Unknown,2,2432.48,4160.9358333333333333
-Men                                               ,pants                                             ,exportiimporto #2                                 ,able,Unknown,6,2760.92,4471.4883333333333333
-Men                                               ,pants                                             ,exportiimporto #2                                 ,eing,Unknown,6,2559.62,4269.0941666666666667
-Men                                               ,pants                                             ,exportiimporto #2                                 ,ation,Unknown,3,2453.59,4154.9300000000000000
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,bar,Unknown,4,2950.74,4563.1208333333333333
-Men                                               ,pants                                             ,exportiimporto #2                                 ,ation,Unknown,1,2566.01,4154.9300000000000000
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,eing,Unknown,1,3373.13,4944.1666666666666667
-Shoes                                             ,womens                                            ,amalgedu pack #1                                  ,bar,Unknown,2,746.66,2311.2191666666666667
-Men                                               ,pants                                             ,exportiimporto #2                                 ,ese,Unknown,7,2631.49,4191.2191666666666667
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,ation,Unknown,2,3154.14,4711.6091666666666667
-Men                                               ,pants                                             ,exportiimporto #2                                 ,able,Unknown,1,2918.84,4471.4883333333333333
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,ese,Unknown,1,3089.25,4631.1641666666666667
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,bar,Unknown,3,3050.52,4563.1208333333333333
-Men                                               ,pants                                             ,exportiimporto #1                                 ,eing,Unknown,4,583.03,2095.4008333333333333
-Shoes                                             ,womens                                            ,amalgedu pack #1                                  ,eing,Unknown,6,991.32,2497.7133333333333333
-Men                                               ,pants                                             ,exportiimporto #2                                 ,ation,Unknown,6,2649.32,4154.9300000000000000
-Men                                               ,pants                                             ,exportiimporto #2                                 ,able,Unknown,7,2973.59,4471.4883333333333333
-Shoes                                             ,womens                                            ,amalgedu pack #1                                  ,bar,Unknown,3,828.20,2311.2191666666666667
-Men                                               ,pants                                             ,exportiimporto #2                                 ,ought,Unknown,7,2701.30,4160.9358333333333333
-Shoes                                             ,womens                                            ,amalgedu pack #1                                  ,eing,Unknown,4,1049.89,2497.7133333333333333
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,bar,Unknown,5,3126.30,4563.1208333333333333
-Shoes                                             ,womens                                            ,amalgedu pack #1                                  ,ation,Unknown,7,1230.33,2646.4675000000000000
-Men                                               ,pants                                             ,exportiimporto #2                                 ,ation,Unknown,7,2739.09,4154.9300000000000000
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,ought,Unknown,5,3167.99,4582.1933333333333333
-Men                                               ,pants                                             ,exportiimporto #2                                 ,bar,Unknown,4,2977.49,4364.7375000000000000
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,eing,Unknown,5,3557.58,4944.1666666666666667
-Men                                               ,pants                                             ,exportiimporto #2                                 ,bar,Unknown,5,2992.20,4364.7375000000000000
-Men                                               ,pants                                             ,exportiimporto #2                                 ,able,Unknown,2,3099.75,4471.4883333333333333
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,ought,Unknown,1,3214.28,4582.1933333333333333
-Men                                               ,pants                                             ,exportiimporto #2                                 ,ought,Unknown,3,2795.06,4160.9358333333333333
-Shoes                                             ,womens                                            ,amalgedu pack #1                                  ,able,Unknown,6,1155.46,2507.5408333333333333
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,bar,Unknown,1,3217.46,4563.1208333333333333
-Shoes                                             ,womens                                            ,amalgedu pack #1                                  ,ought,Unknown,7,1142.24,2459.5600000000000000
-Shoes                                             ,womens                                            ,amalgedu pack #1                                  ,able,Unknown,2,1203.83,2507.5408333333333333
-Men                                               ,pants                                             ,exportiimporto #1                                 ,eing,Unknown,7,797.62,2095.4008333333333333
-Men                                               ,pants                                             ,exportiimporto #2                                 ,eing,Unknown,1,2980.60,4269.0941666666666667
-Shoes                                             ,womens                                            ,amalgedu pack #1                                  ,ation,Unknown,4,1359.31,2646.4675000000000000
-Shoes                                             ,womens                                            ,amalgedu pack #1                                  ,ought,Unknown,2,1174.72,2459.5600000000000000
-Men                                               ,pants                                             ,exportiimporto #1                                 ,bar,Unknown,5,671.59,1948.4883333333333333
-Men                                               ,pants                                             ,exportiimporto #2                                 ,bar,Unknown,2,3099.19,4364.7375000000000000
-Shoes                                             ,womens                                            ,amalgedu pack #1                                  ,able,Unknown,3,1248.26,2507.5408333333333333
-Men                                               ,pants                                             ,exportiimporto #2                                 ,bar,Unknown,7,3120.76,4364.7375000000000000
-Shoes                                             ,womens                                            ,amalgedu pack #1                                  ,ation,Unknown,6,1407.42,2646.4675000000000000
-Shoes                                             ,womens                                            ,amalgedu pack #1                                  ,ese,Unknown,4,1285.46,2520.3991666666666667
-Men                                               ,pants                                             ,exportiimporto #2                                 ,ese,Unknown,1,2962.47,4191.2191666666666667
-Shoes                                             ,womens                                            ,amalgedu pack #1                                  ,ought,Unknown,4,1248.31,2459.5600000000000000
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,ation,Unknown,1,3507.39,4711.6091666666666667
-Shoes                                             ,womens                                            ,amalgedu pack #2                                  ,able,Unknown,1,3540.84,4732.8066666666666667
-Men                                               ,pants                                             ,exportiimporto #1                                 ,ese,Unknown,4,720.85,1911.9225000000000000
-Men                                               ,pants                                             ,exportiimporto #1                                 ,able,Unknown,6,741.13,1929.0616666666666667
-Men                                               ,pants                                             ,exportiimporto #2                                 ,ought,Unknown,6,2973.45,4160.9358333333333333
-Shoes                                             ,womens                                            ,amalgedu pack #1                                  ,able,Unknown,7,1326.81,2507.5408333333333333
-Shoes                                             ,womens                                            ,amalgedu pack #1                                  ,ought,Unknown,3,1290.11,2459.5600000000000000
-Men                                               ,pants                                             ,exportiimporto #2                                 ,bar,Unknown,1,3201.04,4364.7375000000000000
+Timing is on.
+i_category,i_class,i_brand,s_store_name,s_company_name,d_moy,sum_sales,avg_monthly_sales
+Men                                               ,shirts                                            ,importoimporto #1                                 ,ese,Unknown,3,2070.65,5492.8175000000000000
+Men                                               ,shirts                                            ,importoimporto #1                                 ,ought,Unknown,6,2152.15,5045.7583333333333333
+Men                                               ,shirts                                            ,importoimporto #1                                 ,able,Unknown,2,2333.43,5194.8183333333333333
+Men                                               ,shirts                                            ,importoimporto #1                                 ,ese,Unknown,6,2691.33,5492.8175000000000000
+Men                                               ,shirts                                            ,importoimporto #1                                 ,ought,Unknown,2,2253.70,5045.7583333333333333
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,able,Unknown,6,1761.81,4507.2400000000000000
+Men                                               ,shirts                                            ,importoimporto #1                                 ,ation,Unknown,3,2672.68,5410.9166666666666667
+Men                                               ,shirts                                            ,importoimporto #1                                 ,ation,Unknown,5,2677.81,5410.9166666666666667
+Men                                               ,shirts                                            ,importoimporto #1                                 ,eing,Unknown,5,2356.88,5074.0766666666666667
+Men                                               ,shirts                                            ,importoimporto #1                                 ,ese,Unknown,4,2784.11,5492.8175000000000000
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,ought,Unknown,7,1926.67,4619.7075000000000000
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,ought,Unknown,1,2065.94,4619.7075000000000000
+Men                                               ,shirts                                            ,importoimporto #1                                 ,ation,Unknown,6,2881.34,5410.9166666666666667
+Men                                               ,shirts                                            ,importoimporto #1                                 ,able,Unknown,3,2674.91,5194.8183333333333333
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,ation,Unknown,2,2192.31,4690.8900000000000000
+Men                                               ,shirts                                            ,importoimporto #1                                 ,bar,Unknown,5,2475.90,4973.5091666666666667
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,ese,Unknown,2,2146.52,4642.9908333333333333
+Men                                               ,shirts                                            ,importoimporto #1                                 ,eing,Unknown,2,2588.02,5074.0766666666666667
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,bar,Unknown,7,2428.75,4914.1183333333333333
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,bar,Unknown,3,2451.51,4914.1183333333333333
+Men                                               ,shirts                                            ,importoimporto #1                                 ,ation,Unknown,7,2951.67,5410.9166666666666667
+Men                                               ,shirts                                            ,importoimporto #1                                 ,able,Unknown,1,2765.75,5194.8183333333333333
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,able,Unknown,2,2082.54,4507.2400000000000000
+Men                                               ,shirts                                            ,importoimporto #1                                 ,ation,Unknown,4,2988.08,5410.9166666666666667
+Men                                               ,shirts                                            ,importoimporto #1                                 ,ought,Unknown,7,2667.92,5045.7583333333333333
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,bar,Unknown,4,2549.27,4914.1183333333333333
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,ese,Unknown,7,2307.00,4642.9908333333333333
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,eing,Unknown,4,2204.15,4528.8225000000000000
+Men                                               ,shirts                                            ,importoimporto #1                                 ,able,Unknown,7,2880.34,5194.8183333333333333
+Men                                               ,shirts                                            ,importoimporto #1                                 ,ese,Unknown,5,3210.74,5492.8175000000000000
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,ation,Unknown,4,2418.39,4690.8900000000000000
+Men                                               ,shirts                                            ,importoimporto #1                                 ,eing,Unknown,4,2833.40,5074.0766666666666667
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,bar,Unknown,2,2692.79,4914.1183333333333333
+Men                                               ,shirts                                            ,importoimporto #1                                 ,eing,Unknown,6,2854.62,5074.0766666666666667
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,eing,Unknown,6,2314.71,4528.8225000000000000
+Men                                               ,shirts                                            ,importoimporto #1                                 ,ought,Unknown,5,2834.94,5045.7583333333333333
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,ation,Unknown,5,2480.25,4690.8900000000000000
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,able,Unknown,7,2302.21,4507.2400000000000000
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,ation,Unknown,6,2501.15,4690.8900000000000000
+Men                                               ,shirts                                            ,importoimporto #1                                 ,ese,Unknown,2,3307.78,5492.8175000000000000
+Men                                               ,shirts                                            ,importoimporto #1                                 ,able,Unknown,5,3016.43,5194.8183333333333333
+Men                                               ,shirts                                            ,importoimporto #1                                 ,able,Unknown,4,3040.23,5194.8183333333333333
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,eing,Unknown,5,2420.31,4528.8225000000000000
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,ese,Unknown,5,2535.80,4642.9908333333333333
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,ought,Unknown,2,2521.70,4619.7075000000000000
+Men                                               ,shirts                                            ,importoimporto #1                                 ,bar,Unknown,3,2877.96,4973.5091666666666667
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,ese,Unknown,3,2577.15,4642.9908333333333333
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,ation,Unknown,7,2637.27,4690.8900000000000000
+Men                                               ,shirts                                            ,importoimporto #1                                 ,ation,Unknown,1,3380.16,5410.9166666666666667
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,eing,Unknown,7,2524.32,4528.8225000000000000
+Men                                               ,shirts                                            ,importoimporto #1                                 ,bar,Unknown,4,2986.70,4973.5091666666666667
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,ought,Unknown,4,2648.80,4619.7075000000000000
+Men                                               ,shirts                                            ,importoimporto #1                                 ,bar,Unknown,7,3026.41,4973.5091666666666667
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,ation,Unknown,3,2751.11,4690.8900000000000000
+Men                                               ,shirts                                            ,importoimporto #1                                 ,bar,Unknown,2,3073.45,4973.5091666666666667
+Men                                               ,shirts                                            ,importoimporto #1                                 ,eing,Unknown,3,3179.96,5074.0766666666666667
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,ation,Unknown,1,2797.07,4690.8900000000000000
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,able,Unknown,1,2621.05,4507.2400000000000000
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,ese,Unknown,4,2808.36,4642.9908333333333333
+Women                                             ,dresses                                           ,amalgamalg #2                                     ,bar,Unknown,6,680.47,2506.9633333333333333
+Men                                               ,shirts                                            ,importoimporto #1                                 ,ation,Unknown,2,3591.65,5410.9166666666666667
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,able,Unknown,3,2706.15,4507.2400000000000000
+Women                                             ,dresses                                           ,amalgamalg #2                                     ,eing,Unknown,2,773.08,2569.3466666666666667
+Men                                               ,shirts                                            ,importoimporto #1                                 ,bar,Unknown,6,3199.08,4973.5091666666666667
+Men                                               ,shirts                                            ,importoimporto #1                                 ,ese,Unknown,7,3754.33,5492.8175000000000000
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,bar,Unknown,5,3190.77,4914.1183333333333333
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,eing,Unknown,2,2841.88,4528.8225000000000000
+Men                                               ,shirts                                            ,importoimporto #1                                 ,able,Unknown,6,3538.25,5194.8183333333333333
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,ese,Unknown,6,3006.94,4642.9908333333333333
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,bar,Unknown,1,3284.93,4914.1183333333333333
+Women                                             ,dresses                                           ,amalgamalg #2                                     ,bar,Unknown,5,878.42,2506.9633333333333333
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,able,Unknown,5,2891.95,4507.2400000000000000
+Men                                               ,shirts                                            ,importoimporto #1                                 ,eing,Unknown,7,3465.77,5074.0766666666666667
+Women                                             ,dresses                                           ,amalgamalg #2                                     ,eing,Unknown,3,964.29,2569.3466666666666667
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,bar,Unknown,6,3324.49,4914.1183333333333333
+Men                                               ,shirts                                            ,importoimporto #1                                 ,ought,Unknown,3,3467.09,5045.7583333333333333
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,ought,Unknown,5,3049.25,4619.7075000000000000
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,eing,Unknown,3,2978.07,4528.8225000000000000
+Men                                               ,shirts                                            ,importoimporto #1                                 ,ought,Unknown,4,3544.97,5045.7583333333333333
+Men                                               ,shirts                                            ,importoimporto #1                                 ,bar,Unknown,1,3490.62,4973.5091666666666667
+Men                                               ,shirts                                            ,importoimporto #2                                 ,able,Unknown,2,628.63,2095.4708333333333333
+Men                                               ,shirts                                            ,importoimporto #1                                 ,eing,Unknown,1,3628.21,5074.0766666666666667
+Women                                             ,dresses                                           ,amalgamalg #1                                     ,able,Unknown,4,3082.17,4507.2400000000000000
+Men                                               ,shirts                                            ,importoimporto #2                                 ,eing,Unknown,5,765.86,2137.6566666666666667
+Women                                             ,dresses                                           ,amalgamalg #2                                     ,ation,Unknown,4,1064.70,2431.2266666666666667
+Women                                             ,dresses                                           ,amalgamalg #2                                     ,ought,Unknown,3,991.89,2355.4416666666666667
+Women                                             ,dresses                                           ,amalgamalg #2                                     ,eing,Unknown,5,1211.13,2569.3466666666666667
+Women                                             ,dresses                                           ,amalgamalg #2                                     ,ation,Unknown,7,1078.41,2431.2266666666666667
+Men                                               ,shirts                                            ,importoimporto #2                                 ,ation,Unknown,4,807.67,2141.0600000000000000
+Women                                             ,dresses                                           ,amalgamalg #2                                     ,ation,Unknown,2,1102.89,2431.2266666666666667
+Women                                             ,dresses                                           ,amalgamalg #2                                     ,eing,Unknown,6,1247.86,2569.3466666666666667
+Women                                             ,dresses                                           ,amalgamalg #2                                     ,able,Unknown,4,1020.39,2337.2783333333333333
+Men                                               ,shirts                                            ,importoimporto #2                                 ,able,Unknown,7,780.91,2095.4708333333333333
+Women                                             ,dresses                                           ,amalgamalg #2                                     ,ese,Unknown,2,904.34,2200.8208333333333333
+Women                                             ,dresses                                           ,amalgamalg #2                                     ,ought,Unknown,7,1061.87,2355.4416666666666667
+Women                                             ,dresses                                           ,amalgamalg #2                                     ,able,Unknown,3,1054.94,2337.2783333333333333
+Men                                               ,shirts                                            ,importoimporto #2                                 ,ought,Unknown,6,633.96,1908.0566666666666667
+Men                                               ,shirts                                            ,importoimporto #2                                 ,ese,Unknown,6,853.37,2113.5733333333333333
+Women                                             ,dresses                                           ,amalgamalg #2                                     ,able,Unknown,5,1084.94,2337.2783333333333333
+Women                                             ,dresses                                           ,amalgamalg #2                                     ,eing,Unknown,4,1317.08,2569.3466666666666667
+(100 rows)
+Time: 1964,049 ms (00:01,964)

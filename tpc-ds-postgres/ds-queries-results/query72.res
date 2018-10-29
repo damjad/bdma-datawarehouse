@@ -1,100 +1,104 @@
-Alone, low places issue only involved, coherent trees. Clients would receive; ce,Bad cards must make.,5318,0,2,2
-Boys measure else towns. Advertisements challenge just prominent, local areas; other, singl,Important issues liv,5317,0,2,2
-Elsewhere favorite groups would swing english, powerful years. Children cannot pref,Doors canno,5314,0,2,2
-Feet can let ,,5317,0,2,2
-General levels may not tel,Conventional childr,5314,0,2,2
-Hard, social brothers ought to serve french, serious orders. Instruments learn tight feelings. Then right hospitals will not move across the signals. Well wealthy materials must press bright,,,5306,0,2,2
-Increasingly continued changes shall turn now residential proceedings. Banks swim only in the questions. Required exceptions shall sense economic,,Bad cards must make.,5317,0,2,2
-Local, unlikely bits sign completely. Areas feel only manufacturing legs. Amounts must go personal, very things; areas could take clo,Important issues liv,5271,0,2,2
-Organic girls could give messages. Germans might not take still up to a clients. Services ought to assume random demands. Due, irish modules used ,,5305,0,2,2
-Patterns let however real facilities. Naturally single variations used to save initially. Operations leave later t,Important issues liv,5317,0,2,2
-Pink, important thousands think well lines. Near special children agree all. Political things might not result only external fees. Yesterday p,Bad cards must make.,5319,0,2,2
-Realistic, left exercises encourage productive trees. Tools go however. New, central years assume together english, secondary proposals. ,Doors canno,5316,0,2,2
-Serious crimes must finance yesterday strong fathers. Ever sure years would not say. International, new att,,5313,0,2,2
-Special, realistic friends will comply. Opening concentrations could not look too major, soviet proceedings. National children might get following, hig,Doors canno,5319,0,2,2
-Usually social eyes can get available, coastal things. Better social talks should accept as unique measures. Extreme,Conventional childr,5320,0,2,2
-,Conventional childr,5317,0,2,2
-Able artists love all classical, roman runs. British childre,Bad cards must make.,5288,0,1,1
-Able, early arms return estimates; already common animals can go also british victorian meals. Old offices may not go just main, early procedures. Foreign, useless attitudes organize most. Respon,Important issues liv,5315,0,1,1
-Able, long mammals can want new, serious years. Questions would not cope again mainly unable contributions. Less responsible shelves lose records; leading, similar ,Doors canno,5307,0,1,1
-Able, strong pictures understand especially. Similar years feed sometimes close, bri,Important issues liv,5295,0,1,1
-Able women ought to attempt in the schools. Then clear lives will live suitable, gastric complaints. Months should say surely then sufficient doors. Genetic times sign from a options.,Bad cards must make.,5317,0,1,1
-About likely houses like international members. Final, relevant birds answer after the paintings. Hungry, personal days borrow tiny, primary resources. As social relations could choose quite also ,Important issues liv,5319,0,1,1
-About military signals could consider swiftly also international records. Good, following owners get fairly obvious sales; players might understand with ,Important issues liv,5281,0,1,1
-Above local inhabitants can take. Women harbour slightly with the children. Far new tasks promote under a children. Furious members specify thus new risks. Red looks cannot find quick,Doors canno,5308,0,1,1
-Abroad new others see as usual other, regular circumstances; similar, other words must not offer yesterday medical struc,Conventional childr,5301,0,1,1
-Abroad soft others will become right. Growing, safe clothes keep ab,Doors canno,5311,0,1,1
-Abroad sorry ways must make home satisfied, fat effec,Doors canno,5316,0,1,1
-Abroad sorry ways must make home satisfied, fat effec,Important issues liv,5316,0,1,1
-Absolutely,Bad cards must make.,5285,0,1,1
-Absolutely,Doors canno,5285,0,1,1
-Absolutely elegant women must gain well complete ,,5320,0,1,1
-Absolutely old payments will b,Bad cards must make.,5301,0,1,1
-Abstract, red patterns return definitely police; different studies wear mainly pr,Bad cards must make.,5303,0,1,1
-Abstract, red patterns return definitely police; different studies wear mainly pr,,5303,0,1,1
-Academic systems can give generally victorian knees. Straightforward, specific reasons might act on the guards. Of course recent men avoid perhaps,Doors canno,5315,0,1,1
-Academic systems can give generally victorian knees. Straightforward, specific reasons might act on the guards. Of course recent men avoid perhaps,Important issues liv,5315,0,1,1
-Accessible, sure opportunities used to help; too good films would not see ,Conventional childr,5304,0,1,1
-Accidents may not recall. Here new systems should not wait ago on the suggestions. Also other magistrates ought to market darkly hot, inc minutes. Intense, good hotels shall not make more bold, marrie,Important issues liv,5299,0,1,1
-Acids grab below previous standards. Ever large metals will come on a articles. Underlying stories protect at last. Reasonable directions believe rather due to a,Bad cards must make.,5320,0,1,1
-Acids grab below previous standards. Ever large metals will come on a articles. Underlying stories protect at last. Reasonable directions believe rather due to a,Doors canno,5315,0,1,1
-Acids grab below previous standards. Ever large metals will come on a articles. Underlying stories protect at last. Reasonable directions believe rather due to a,Doors canno,5317,0,1,1
-Across possible colleagues know even years. Much bloody families shall wor,Conventional childr,5318,0,1,1
-Across possible colleagues know even years. Much bloody families shall wor,Important issues liv,5318,0,1,1
-Act,Important issues liv,5299,0,1,1
-Active abilities depend smoothly by a ,Doors canno,5296,0,1,1
-Active, easy rounds manage now with a birds. Previous pieces could develo,Bad cards must make.,5309,0,1,1
-Active, easy rounds manage now with a birds. Previous pieces could develo,Important issues liv,5309,0,1,1
-Active, red things shall remain from the colleagues; largely high members form barely i,,5321,0,1,1
-Activities would show here. Practical,Important issues liv,5320,0,1,1
-Actual bodies canno,Doors canno,5285,0,1,1
-Actual, japanese successes ought to put. Studies shall make out of a observers. Public, dangerous ideas must stop blue, soft men. Shy, relevant pounds feel surprisingly old criteria; interested yea,,5280,0,1,1
-Actually economic skills should keep on a boys. Friends speed unlikely cells. Difficulties destroy other companies. Prisoner,Important issues liv,5274,0,1,1
-Actually ethnic authorities used to qualify just ,Conventional childr,5320,0,1,1
-Acutely good subsidies take hardly early terms. Merely magnificent areas help res,Doors canno,5275,0,1,1
-Additional pp. come. At first african forces seek maybe; unknown stages may raise off a papers; books lead above hard terms. Inches show intimately ordinary questions. Great, silly anim,Doors canno,5319,0,1,1
-Advantag,Conventional childr,5291,0,1,1
-Advantag,,5291,0,1,1
-Affairs come average, commercial wives. Real minds must resign traditionally. Still combined foods give ,Bad cards must make.,5319,0,1,1
-Affairs come average, commercial wives. Real minds must resign traditionally. Still combined foods give ,Doors canno,5319,0,1,1
-Affairs fight against the policies. Intelligent fires think papers. Colourful, digital activities will not stop unknown, general words. Strategies carry a,Conventional childr,5309,0,1,1
-Afraid years suspend much building,Important issues liv,5307,0,1,1
-Again common customers should make hardly proposals. Close groups can prevent after a cars. Physical, human banks will not roll simply for instance agricultural hours. Northern centre,Important issues liv,5311,0,1,1
-Again economic options c,Bad cards must make.,5291,0,1,1
-Again heavy organisms may resu,Bad cards must make.,5295,0,1,1
-Again heavy organisms may resu,Doors canno,5295,0,1,1
-Again heavy organisms may resu,Important issues liv,5295,0,1,1
-Again ideal supporters determine never suspicious, british days. Industrial techniques stir states. Precisely net p,,5319,0,1,1
-Again integrated circumstances used to remove especially about,Bad cards must make.,5303,0,1,1
-Again other changes woul,Bad cards must make.,5319,0,1,1
-Again other changes woul,,5319,0,1,1
-Again urban dimensions can extract at last good dangerous police. Sufficient, natural vessels may not read so actual months. Long-term feet would not specify necessari,Important issues liv,5316,0,1,1
-Again urban dimensions can extract at last good dangerous police. Sufficient, natural vessels may not read so actual months. Long-term feet would not specify necessari,,5316,0,1,1
-Agents see companies. Weekly clergy might not enable always mere studies. Men throw possible relations. Then static rights wr,Bad cards must make.,5310,0,1,1
-Ago fundamental shares should enforce almost psychological, german schools. Arbitrary calls compete. Turkish branches should operate rapidly great, current features. Occasi,,5312,0,1,1
-Ago interesting clothes set only with the pressures. Deep,Important issues liv,5284,0,1,1
-Ago possible girls should know holidays. A,Doors canno,5288,0,1,1
-Ago possible girls should know holidays. A,Important issues liv,5288,0,1,1
-Ago reasonable developers must represent in particular fair wild resources. Right gates shall not pass months. H,Doors canno,5282,0,1,1
-Ago reasonable developers must represent in particular fair wild resources. Right gates shall not pass months. H,Important issues liv,5282,0,1,1
-Ago social details will gain mothers. Actively regional reports remain,Conventional childr,5271,0,1,1
-Ago spanish members would give young, suspicious stars. Executives join for example details. Americans used to convince. Stones should deli,Conventional childr,5318,0,1,1
-Agricultural things may get certainly nationally local eyes. Crude, rigid teachers stop ago beaut,Bad cards must make.,5320,0,1,1
-Agricultural things may get certainly nationally local eyes. Crude, rigid teachers stop ago beaut,,5320,0,1,1
-Aims could not wait therefore in a transactions. Concerned colleagues give behind imaginative guidelines. Areas manage very,Conventional childr,5283,0,1,1
-Aims could not wait therefore in a transactions. Concerned colleagues give behind imaginative guidelines. Areas manage very,Conventional childr,5306,0,1,1
-Aims could not wait therefore in a transactions. Concerned colleagues give behind imaginative guidelines. Areas manage very,Important issues liv,5283,0,1,1
-Al,,5306,0,1,1
-Alive sources should drive upstairs interests. Elections shall meet severe, controversial lines. Central, full provisions determine as large officials; neatly select sources come; pregnant, wooden ,,5310,0,1,1
-All bad figures get brown games. Circumstances cannot understand just. Bio,Conventional childr,5315,0,1,1
-All bad figures get brown games. Circumstances cannot understand just. Bio,Important issues liv,5315,0,1,1
-All brown crowds create be,Important issues liv,5302,0,1,1
-All but huge buildings become then with a resources. Ideas see against the times. ,Conventional childr,5317,0,1,1
-All but huge buildings become then with a resources. Ideas see against the times. ,,5318,0,1,1
-Almost distant supporters serve anyway now cheap parents. Reforms shall not think old, back clothes; rivers cannot ,,5320,0,1,1
-Alone, classical supporters must come closer on a projects. Current materials exceed very so standard banks. Industrial heads give personnel. Unnecessary, likely females shall put here. Natural, wild ,Conventional childr,5306,0,1,1
-Alone, low places issue only involved, coherent trees. Clients would receive; ce,Conventional childr,5310,0,1,1
-Already advisory things seek more before awkward clothes. Customers offer social, quick needs. Differences mi,Doors canno,5311,0,1,1
-Already dark structures shall appoint only often irrelevant improvements. Short early scenes see however lone,,5286,0,1,1
-Already enormous lives use around by a parents. Tropical, old teams need days. Recently only consequences may leave just issues. Volunteers will move further foreign views. National, ameri,Bad cards must make.,5273,0,1,1
-Already european mothers ought to impose big ever fixed parents. Dominant groups say even. Here basic weeks set as winners. Modern, young prayers release very environ,Conventional childr,5312,0,1,1
+Timing is on.
+i_item_desc,w_warehouse_name,d_week_seq,no_promo,promo,total_cnt
+Best possible ages tell together new, st,Conventional childr,5213,0,2,2
+Closed, good condition,Doors canno,5169,0,2,2
+Departments make once again police. Very acceptable results call still extended, known ends; relationships shoot strangely. Acids shall discharge in order ethnic, ric,,5168,0,2,2
+Futures should enjoy able galleries. Late blue tickets pass longer urgently dead types. Shoulders will see rigidly institutions. Other con,Conventional childr,5210,0,2,2
+Good, open studies dream more; industrial, social organisations could understand recently quick tall theories. Lines must answer functions; subtle factor,Important issues liv,5214,0,2,2
+Hard sudden aspects shall not commemorate about a functions. Western, british cases see here churches. Stairs a,Doors canno,5212,0,2,2
+High, essential groups should not weigh more other years; there different papers could announce; large departments c,Important issues liv,5198,0,2,2
+Just young partie,Important issues liv,5213,0,2,2
+Levels undermine unfortunately efficient weeks,,5210,0,2,2
+New, full rises drive however. Legs retain often in a women. Remaining, parliamentary miles may help nevertheless rather full pupils. Glad crimes might,Bad cards must make.,5217,0,2,2
+Provisions go too. Sad others contain italian branches. Keys k,Bad cards must make.,5213,0,2,2
+Provisions go too. Sad others contain italian branches. Keys k,Doors canno,5213,0,2,2
+Shortly desperate nat,Conventional childr,5210,0,2,2
+True tears continue currently pale, close men. Soon medical numbers might not take other, ,Important issues liv,5199,0,2,2
+White employees name; figures feed sure. Speeches can achieve. Extremely final seats may exist too all religious studies. Medite,Bad cards must make.,5168,0,2,2
+Words use up a documents. Collections may,Conventional childr,5168,0,2,2
+Words use up a documents. Collections may,Important issues liv,5168,0,2,2
+Abilities would not require almost; local,Bad cards must make.,5197,0,1,1
+Able,Conventional childr,5177,0,1,1
+Able, alternative police shall not give so other complaints. There complex ,,5212,0,1,1
+Able hands help however inevitable policemen. Far true matters will not forgive never hands. Absolutely french events stop now. Well able procedures unde,Conventional childr,5195,0,1,1
+Able hands help however inevitable policemen. Far true matters will not forgive never hands. Absolutely french events stop now. Well able procedures unde,Doors canno,5195,0,1,1
+Able, long mammals can want new, serious years. Questions would not cope again mainly unable contributions. Less responsible shelves lose records; leading, similar ,Important issues liv,5170,0,1,1
+Able, main parties think really. Resources arrive only independent, old representations. Small, double advantages ,Doors canno,5213,0,1,1
+Able, main parties think really. Resources arrive only independent, old representations. Small, double advantages ,Important issues liv,5180,0,1,1
+About international concentrations could avoid then alone apparent activities; inadequate, mediterranean days get eve,Important issues liv,5215,0,1,1
+About natural economie,Bad cards must make.,5202,0,1,1
+About other levels should proceed certainly fine, severe facts.,Important issues liv,5210,0,1,1
+About working feelings could produce only types. Electoral, new visitors will not make more afraid, large tr,,5197,0,1,1
+Absolutely,Bad cards must make.,5203,0,1,1
+Absolutely,Doors canno,5203,0,1,1
+Absolutely ,,5206,0,1,1
+Absolutely front men turn spatial hours. Good, free sales used to marry outside appropriate ships. Noble men sa,,5207,0,1,1
+Absolutely old payments will b,Doors canno,5216,0,1,1
+Accused men cannot increase e,Important issues liv,5207,0,1,1
+Acids grab below previous standards. Ever large metals will come on a articles. Underlying stories protect at last. Reasonable directions believe rather due to a,Bad cards must make.,5169,0,1,1
+Actively different proceedings light yet so similar houses. Good circumstances shall not take only levels. Then moral pounds will clean very only national organisations. ,,5183,0,1,1
+Active plants need necessary, widespread roads. Best back visits hold regularly fresh friend,Conventional childr,5209,0,1,1
+Active plants need necessary, widespread roads. Best back visits hold regularly fresh friend,,5209,0,1,1
+Active windows shall not find small, relig,Conventional childr,5203,0,1,1
+Activities say. Right lips resort current techniques. Regional, possible daughters might not present changes; students can notice ridiculous, l,Conventional childr,5192,0,1,1
+Acts,Bad cards must make.,5218,0,1,1
+Acts,Conventional childr,5218,0,1,1
+Actual, grey hands giv,,5214,0,1,1
+Acute, important performances afford. New, nuclear men used to assess again small results.,,5187,0,1,1
+Added, similar grounds spend also concrete terms. Fellow, mass,Important issues liv,5206,0,1,1
+Additional, terrible characters shall examine. Ago lexical conditions get into a weeks. Barely trying results perform still hot men. Great kinds end also committees. Police should live only on the ,Doors canno,5216,0,1,1
+Additional, terrible characters shall examine. Ago lexical conditions get into a weeks. Barely trying results perform still hot men. Great kinds end also committees. Police should live only on the ,Important issues liv,5214,0,1,1
+Adequately unemployed aspects ought to keep on a years. Years get somewhere sometimes late examples; laws must shape determined stones. Recently real decisions may cost now other female thousands. ,Conventional childr,5214,0,1,1
+Adequately unemployed aspects ought to keep on a years. Years get somewhere sometimes late examples; laws must shape determined stones. Recently real decisions may cost now other female thousands. ,Important issues liv,5214,0,1,1
+Adequate things reassure unknown legs. Old, possible bishops shall locate else during a companies; bitter, alone ,Bad cards must make.,5206,0,1,1
+Adults throw close recent women. Orange, guilty libraries let earnings. Initiatives ought to walk. Simple, successful states might work eventually full orders. Formerly very ,Bad cards must make.,5206,0,1,1
+Adults throw close recent women. Orange, guilty libraries let earnings. Initiatives ought to walk. Simple, successful states might work eventually full orders. Formerly very ,,5206,0,1,1
+Advanced, certain fields miss electronically for the books. Open measures match therefore s,Doors canno,5196,0,1,1
+Advanced, certain fields miss electronically for the books. Open measures match therefore s,Important issues liv,5210,0,1,1
+Advantages go small. Organisers could make of course like a problems; probably reasonable humans shall attract categories. Agencies will enable much heavy matters. Stair,Doors canno,5186,0,1,1
+Advantages go small. Organisers could make of course like a problems; probably reasonable humans shall attract categories. Agencies will enable much heavy matters. Stair,Important issues liv,5186,0,1,1
+Advantages go small. Organisers could make of course like a problems; probably reasonable humans shall attract categories. Agencies will enable much heavy matters. Stair,,5206,0,1,1
+Afraid, grey officers mean costly institutions. Societi,Conventional childr,5199,0,1,1
+Afraid, old meals will get chronic, strong applicants. Arms could look with a needs. Hence wor,Important issues liv,5210,0,1,1
+Afraid, southern problems need according to a dec,Conventional childr,5207,0,1,1
+Afraid, southern problems need according to a dec,Important issues liv,5207,0,1,1
+Afraid years suspend much building,,5171,0,1,1
+Again available bags breathe good circumstances. Thus final cases must ,Bad cards must make.,5214,0,1,1
+Again available bags breathe good circumstances. Thus final cases must ,Conventional childr,5218,0,1,1
+Again judicial colours may blame fully british strange groups. Rules shall cover probably participants. W,,5214,0,1,1
+Again small deaths could flou,Bad cards must make.,5175,0,1,1
+Agencies shall not consider false in a others. Obviously interesting authorities come anyway men. Small, ,Important issues liv,5206,0,1,1
+Agents see companies. Weekly clergy might not enable always mere studies. Men throw possible relations. Then static rights wr,Conventional childr,5209,0,1,1
+Ago foreign writings leave; even considerable artists let fully then minimal workers. Clear ministers keep. Specifically dry men increase central tests. Living, alternative meanings ought,Important issues liv,5180,0,1,1
+Ago regional objects finish courts. Large, serio,Bad cards must make.,5187,0,1,1
+Agricultural, difficult engines marry according to the things; instances shall not go however quietly statutory images. Still sharp patients work no doubt producers. Magazines ,Doors canno,5210,0,1,1
+Agricultural, selective groups follow much worthwhile panels. Fully sim,Bad cards must make.,5207,0,1,1
+Aims play already,Doors canno,5198,0,1,1
+Al,,5167,0,1,1
+A little average flames ought to break old, unique men. Things select often red, economic others. Hands will lift sufficiently; german, proper sections worry perhaps for the po,,5212,0,1,1
+All ,Bad cards must make.,5175,0,1,1
+All ,Important issues liv,5210,0,1,1
+All numerous reasons explain upper teachers; necessary, inte,Bad cards must make.,5181,0,1,1
+All realistic employees should attempt all only expert parties. Complete days cannot come as possible rules. Normal candidates would not pay there improved, o,Doors canno,5204,0,1,1
+All right deliberate difficulties wait still between a seats; final, actual jobs may mee,Bad cards must make.,5212,0,1,1
+All right deliberate difficulties wait still between a seats; final, actual jobs may mee,Conventional childr,5174,0,1,1
+All right used men must demand. Visual companies take entirely inhabitants; forward common hands hear here local customers. So traditional questions shal,Doors canno,5188,0,1,1
+Alm,Important issues liv,5204,0,1,1
+Almost armed animals will maintain always pure, professional days; differe,Conventional childr,5175,0,1,1
+Almost armed animals will maintain always pure, professional days; differe,Doors canno,5175,0,1,1
+Almost armed animals will maintain always pure, professional days; differe,Important issues liv,5175,0,1,1
+Almost low provisions suggest to,Conventional childr,5211,0,1,1
+Almost separate f,Bad cards must make.,5215,0,1,1
+Almost separate f,,5215,0,1,1
+Alone days must undertake children; pages will face cases. Days fit especially black standards. Certain, involved numbers may not intend high, ,Conventional childr,5176,0,1,1
+Alone relevant nights pretend so complete years. Currently new unions make horizontally bills. Most political troops could give most possible, australian elements; flowers shall recall most pop,Important issues liv,5212,0,1,1
+Alone, small conditions get either likely companies. Inner, long-term patients make hot rebels. Procedures see fi,Important issues liv,5215,0,1,1
+Alone working-class dates open from a issues. Most european concessions will not tell personal areas; central, poor officials might not act ,Doors canno,5197,0,1,1
+Already european mothers ought to impose big ever fixed parents. Dominant groups say even. Here basic weeks set as winners. Modern, young prayers release very environ,Doors canno,5215,0,1,1
+Also f,Doors canno,5192,0,1,1
+Also good subjects cannot clean then then difficult gaps. Good, sorry methods divert perhaps. Whit,Bad cards must make.,5211,0,1,1
+Also public waves will not bomb yesterday methods. Eyes ,,5183,0,1,1
+Also real details used to travel for the articles. A bit anonymous factors aim there early, clean standards. Normal grounds weaken in a times; significant wheels cannot help black studies. Right l,Important issues liv,5199,0,1,1
+Also silent nurses find also fully mental priorities. Savings shall bring naturally silent e,Conventional childr,5168,0,1,1
+(100 rows)
+Time: 1928,021 ms (00:01,928)

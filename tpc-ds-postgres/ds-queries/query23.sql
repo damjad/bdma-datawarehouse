@@ -74,7 +74,7 @@ with frequent_ss_items as
       ,customer
   where ss_customer_sk = c_customer_sk
   group by c_customer_sk
-  having sum(ss_quantity*ss_sales_price) > (95/100.0) * (select
+  having sum(ss_quantity*ss_sales_price) > (50/100.0) * (select
   *
  from max_store_sales))
   select  U.c_last_name,U.c_first_name,U.sales

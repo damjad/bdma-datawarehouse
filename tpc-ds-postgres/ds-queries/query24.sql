@@ -93,7 +93,7 @@ select c_last_name
       ,s_store_name
       ,sum(netpaid) paid
 from ssales
-where i_color = 'chiffon'
+where i_color = 'saddle'
 group by c_last_name
         ,c_first_name
         ,s_store_name

@@ -1,4 +1,5 @@
-AAAAAAAABAAAAAAA,NY Metro,Bob Belcher,922.80
-AAAAAAAAEAAAAAAA,North Midwest,Larry Mccray,707.39
-AAAAAAAAEAAAAAAA,North Midwest,Larry Mccray,164.44
-AAAAAAAABAAAAAAA,NY Metro,Bob Belcher,61.33
+Timing is on.
+call_center,call_center_name,manager,returns_loss
+AAAAAAAACAAAAAAA,Mid Atlantic,Felipe Perkins,109.74
+(1 row)
+Time: 47,605 ms

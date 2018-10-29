@@ -1,92 +1,104 @@
-AAAAAAAAACBFAAAA,Dr.       ,Clifton             ,Carr                          ,N,4,4,1950,INDIA,,Clifton.Carr@mOm0RG.com                           ,2452385,2232.42
-AAAAAAAAADCCAAAA,Sir       ,Elmer               ,Southerland                   ,Y,14,3,1967,NICARAGUA,,Elmer.Southerland@dG9HZHGjU8.edu                  ,2452623,9604.53
-AAAAAAAAADFDBAAA,Dr.       ,Stanley             ,Smith                         ,N,23,4,1928,SPAIN,,Stanley.Smith@Yxk9F0obDmkvN.org                   ,2452381,2287.41
-AAAAAAAAAEHLAAAA,Ms.       ,Anita               ,Vance                         ,Y,14,3,1988,ZIMBABWE,,Anita.Vance@SCZrSvm7MpKZ.org                      ,2452362,4263.60
-AAAAAAAAAIJOAAAA,Dr.       ,Elise               ,Cook                          ,Y,25,1,1957,SAN MARINO,,Elise.Cook@zgV4U.com                              ,2452537,1940.00
-AAAAAAAAAJLEBAAA,Mrs.      ,Judy                ,Wells                         ,,31,8,,JERSEY,,,,1764.00
-AAAAAAAAAMHMAAAA,Mrs.      ,Angel               ,Farrington                    ,N,5,5,1992,NICARAGUA,,Angel.Farrington@ESvsPDBzslNpvaZ.org              ,2452593,3722.86
-AAAAAAAABEGGAAAA,Ms.       ,Linda               ,Bishop                        ,N,25,5,1945,ANDORRA,,Linda.Bishop@SsgvULplErri.org                     ,2452369,5049.28
-AAAAAAAABLPMAAAA,Sir       ,Peter               ,Hogue                         ,N,24,4,1979,FRENCH GUIANA,,Peter.Hogue@XZhvIIKsznzvj.com                     ,2452640,1582.00
-AAAAAAAABNBKAAAA,Dr.       ,Chelsea             ,Wellman                       ,Y,5,2,1989,NIGERIA,,Chelsea.Wellman@RY0lIpgj89SBPI.com                ,2452454,4034.24
-AAAAAAAABNECAAAA,Dr.       ,Thomas              ,Hollingsworth                 ,N,30,9,1960,AFGHANISTAN,,Thomas.Hollingsworth@GM6CNHy.org                  ,2452581,6428.07
-AAAAAAAABNMAAAAA,Miss      ,Martha              ,Moore                         ,N,5,7,1985,BOUVET ISLAND,,Martha.Moore@s.org                                ,2452584,7708.40
-AAAAAAAABNMEBAAA,Dr.       ,Sara                ,Mcmahon                       ,N,23,10,1926,BARBADOS,,Sara.Mcmahon@DGmEehYquCX.edu                      ,2452584,1290.24
-AAAAAAAACDKGAAAA,Dr.       ,Martha              ,Mason                         ,N,20,6,1970,MOROCCO,,Martha.Mason@F.org                                ,2452359,3861.33
-AAAAAAAACEONAAAA,Ms.       ,Sandra              ,Lopez                         ,Y,31,3,1979,EGYPT,,Sandra.Lopez@pJc3Or8NbSu8MX.com                   ,2452311,4688.40
-AAAAAAAACGBPAAAA,Ms.       ,Florence            ,Cabrera                       ,Y,30,6,1934,GHANA,,Florence.Cabrera@cm.com                           ,2452610,1608.64
-AAAAAAAACIGIBAAA,Dr.       ,Charles             ,Lopez                         ,Y,11,10,1979,URUGUAY,,Charles.Lopez@gOyo.com                            ,2452424,2025.00
-AAAAAAAACIOGBAAA,Dr.       ,Gregorio            ,Lee                           ,N,3,10,1970,LESOTHO,,Gregorio.Lee@iteZa836XrfF.edu                     ,2452438,1590.30
-AAAAAAAACJLIAAAA,Mr.       ,Philip              ,Kinder                        ,N,1,10,1987,BOLIVIA,,Philip.Kinder@t4B5veuzCR390MP.com                 ,2452595,2526.44
-AAAAAAAACKDBAAAA,Miss      ,Kathy               ,Kelly                         ,N,15,9,1988,ANTIGUA AND BARBUDA,,Kathy.Kelly@o.org                                 ,2452339,2719.92
-AAAAAAAACPLIAAAA,Mr.       ,John                ,Williams                      ,Y,11,9,1960,COMOROS,,John.Williams@Gn.com                              ,2452392,4542.08
-AAAAAAAACPOIAAAA,Dr.       ,Melvin              ,Phillips                      ,Y,16,2,1987,LESOTHO,,Melvin.Phillips@MinR9.com                         ,2452402,2647.26
-AAAAAAAADADNAAAA,Dr.       ,Willie              ,Vitale                        ,Y,30,11,1978,SLOVAKIA,,Willie.Vitale@rUnNJoaskyn6aLA.edu                 ,2452642,6185.28
-AAAAAAAADAGBAAAA,Ms.       ,Helen               ,Barker                        ,N,10,5,1933,ZAMBIA,,Helen.Barker@V8ZT4ncYBuGSK.com                    ,2452378,2791.32
-AAAAAAAADNLLAAAA,Mrs.      ,Mae                 ,Jackson                       ,N,15,8,1948,SYRIAN ARAB REPUBLIC,,Mae.Jackson@Eh2TmyLnCy.org                        ,2452379,5097.08
-AAAAAAAADPCIAAAA,Miss      ,Wilma               ,Sanborn                       ,N,15,6,1952,BURUNDI,,Wilma.Sanborn@2jbbN0ubazbL.org                    ,2452333,2457.60
-AAAAAAAAEHFFBAAA,Dr.       ,Michelle            ,Reed                          ,N,1,3,1982,ZAMBIA,,Michelle.Reed@9yNA4PLMEjB.edu                     ,2452546,5864.34
-AAAAAAAAFABKAAAA,Dr.       ,Nancy               ,Duke                          ,N,10,1,1961,ERITREA,,Nancy.Duke@h.edu                                  ,2452379,1607.04
-AAAAAAAAFCKHBAAA,Mrs.      ,Helen               ,Ramsay                        ,N,6,1,1971,LIECHTENSTEIN,,Helen.Ramsay@ZC1VJrVtx7It3Iz.com                  ,2452626,2868.48
-AAAAAAAAFGBABAAA,Mrs.      ,Louise              ,Douglas                       ,N,12,10,1944,ARUBA,,Louise.Douglas@VzomaEVuSe.edu                     ,2452630,9067.96
-AAAAAAAAFPAIBAAA,Dr.       ,Michael             ,Roberge                       ,N,29,1,1959,VIET NAM,,Michael.Roberge@YTN9dUXCpJmz5.org                 ,2452378,4120.84
-AAAAAAAAGAMHAAAA,Miss      ,Clementine          ,Darby                         ,N,5,2,1952,SAN MARINO,,Clementine.Darby@8HfgoxcVueO.com                  ,2452573,2829.50
-AAAAAAAAGBJKAAAA,Dr.       ,Amy                 ,Baker                         ,Y,5,6,1970,SAUDI ARABIA,,Amy.Baker@U8marrVO5XN9oMK.com                     ,2452370,2981.21
-AAAAAAAAGDFJAAAA,Ms.       ,Margaret            ,Edmonds                       ,,24,,,ARUBA,,,,3097.44
-AAAAAAAAGHKPAAAA,Miss      ,Kimberly            ,Clark                         ,N,15,11,1937,TONGA,,Kimberly.Clark@xYl6FQTOMkQPi.edu                  ,2452477,1852.52
-AAAAAAAAGKPGAAAA,Mrs.      ,Rachel              ,Reed                          ,Y,13,3,1950,MALAWI,,Rachel.Reed@x.com                                 ,2452574,2254.35
-AAAAAAAAGNKPAAAA,Dr.       ,Marcus              ,Davis                         ,N,12,2,1968,KENYA,,Marcus.Davis@ksKq.com                             ,2452633,2388.68
-AAAAAAAAGNKPAAAA,Dr.       ,Marcus              ,Davis                         ,N,12,2,1968,KENYA,,Marcus.Davis@ksKq.com                             ,2452633,5162.50
-AAAAAAAAGPBFAAAA,Dr.       ,Lorenzo             ,Grace                         ,Y,5,2,1984,UNITED STATES,,Lorenzo.Grace@M8CTliq9t0H6.edu                    ,2452613,2904.66
-AAAAAAAAHDBLAAAA,Mr.       ,Michael             ,Dupre                         ,Y,5,9,1961,TIMOR-LESTE,,Michael.Dupre@AhCfsll84OUMVNZ.com                 ,2452438,3593.72
-AAAAAAAAHDKHBAAA,Sir       ,,Free                          ,N,6,,1956,,,,2452293,2100.64
-AAAAAAAAHEFEAAAA,Dr.       ,James               ,Martin                        ,Y,28,9,1963,PERU,,James.Martin@31H8tf1eym.org                       ,2452321,2928.24
-AAAAAAAAHKCEBAAA,Mrs.      ,Stella              ,Osorio                        ,N,2,10,1966,ANGUILLA,,Stella.Osorio@6M8UcU9r.org                        ,2452421,2095.08
-AAAAAAAAHNIFBAAA,Mrs.      ,Jodi                ,Hickman                       ,N,15,9,1973,MALAYSIA,,Jodi.Hickman@OdAHHq4.com                          ,2452312,8251.12
-AAAAAAAAIFNHBAAA,Sir       ,Victor              ,Mccloskey                     ,N,24,2,1940,MONTSERRAT,,Victor.Mccloskey@RymmApu9aLZ.com                  ,2452604,1819.48
-AAAAAAAAIGJGAAAA,Sir       ,Edward              ,Britton                       ,Y,,,1981,,,Edward.Britton@G.edu                              ,,3791.04
-AAAAAAAAIHLGAAAA,Miss      ,Jennifer            ,Smith                         ,N,31,10,1969,TRINIDAD AND TOBAGO,,Jennifer.Smith@vYc7AUOo7.org                      ,2452564,7360.74
-AAAAAAAAIIABAAAA,Miss      ,Rosa                ,Phillips                      ,Y,19,3,1949,SURINAME,,Rosa.Phillips@ECXsk.com                           ,2452488,6261.20
-AAAAAAAAIIHMAAAA,Mr.       ,Ricky               ,Gerber                        ,N,10,11,1973,WALLIS AND FUTUNA,,Ricky.Gerber@5dsb4vhLdmZm.edu                     ,2452402,1707.12
-AAAAAAAAIKABAAAA,Dr.       ,James               ,Taylor                        ,Y,2,1,1967,LEBANON,,James.Taylor@eVoZuvYcqACN.org                     ,2452537,5759.52
-AAAAAAAAIMNPAAAA,Dr.       ,John                ,Mendoza                       ,Y,7,1,1940,HAITI,,John.Mendoza@XDX7Ku8gVsR1LHn.org                  ,2452462,3580.20
-AAAAAAAAIMPAAAAA,Ms.       ,Lois                ,Washington                    ,N,21,8,1973,TONGA,,Lois.Washington@uvUAMB9DuxcK.edu                  ,2452319,1756.80
-AAAAAAAAJAMHBAAA,Miss      ,Kathleen            ,Dupre                         ,Y,7,10,1951,TURKEY,,Kathleen.Dupre@hfQ.edu                            ,2452349,6127.60
-AAAAAAAAJEIFBAAA,,,,N,,,1967,,,Michael.Lee@k0QIl6mntspX.org                      ,2452411,3304.87
-AAAAAAAAJGJEBAAA,Mr.       ,Charles             ,Jackson                       ,N,25,3,1945,LIBERIA,,Charles.Jackson@ziLxUxp0.edu                      ,2452585,2983.56
-AAAAAAAAJHBDBAAA,Mr.       ,Edgar               ,Hunt                          ,Y,27,12,1932,CAMEROON,,Edgar.Hunt@Z.edu                                  ,2452284,2066.48
-AAAAAAAAJJKMAAAA,Sir       ,Jimmy               ,Mcinnis                       ,Y,25,1,1964,SINGAPORE,,Jimmy.Mcinnis@9QXGY2Fn18bZ.org                    ,2452483,3542.97
-AAAAAAAAJKACAAAA,Dr.       ,Arthur              ,Harris                        ,N,9,3,1925,SEYCHELLES,,Arthur.Harris@Sj3QkYzfu.com                       ,2452622,4920.90
-AAAAAAAAKBOHAAAA,Mr.       ,,Christian                     ,,,10,,GUERNSEY,,James.Christian@8r5T.com                          ,2452522,2824.24
-AAAAAAAAKGFEBAAA,Mr.       ,Federico            ,Bradshaw                      ,N,11,5,1978,MONTSERRAT,,Federico.Bradshaw@uzthL55V.com                    ,2452453,1633.59
-AAAAAAAAKJDMAAAA,Miss      ,Andrew              ,Osborne                       ,N,13,5,1954,SUDAN,,Andrew.Osborne@D.edu                              ,2452495,2858.60
-AAAAAAAAKKCMAAAA,Sir       ,Randall             ,Oliver                        ,Y,15,6,1969,GREECE,,Randall.Oliver@lr7eEGq2qUT8sD2.edu                ,2452305,3917.80
-AAAAAAAAKMJBAAAA,Sir       ,John                ,Kruse                         ,N,25,9,1950,NEW ZEALAND,,John.Kruse@BgZ6x.edu                              ,2452516,4032.72
-AAAAAAAAKPPEBAAA,Mr.       ,Thomas              ,Kurtz                         ,N,23,1,1953,WALLIS AND FUTUNA,,Thomas.Kurtz@Xd5JPu7M1.edu                        ,2452571,2123.82
-AAAAAAAALCECAAAA,Sir       ,Dennis              ,Silva                         ,N,29,10,1972,TAJIKISTAN,,Dennis.Silva@cjk.com                              ,2452425,1934.64
-AAAAAAAALFAGBAAA,Sir       ,Alvin               ,Young                         ,Y,24,10,1973,MONACO,,Alvin.Young@iit.org                               ,2452518,4766.65
-AAAAAAAALJMHBAAA,Dr.       ,Stephanie           ,Maloney                       ,Y,19,12,1935,MOZAMBIQUE,,Stephanie.Maloney@xlkHMrqUSFcrHG.com              ,2452572,14950.15
-AAAAAAAALKHEAAAA,Mr.       ,Neil                ,Delarosa                      ,Y,6,1,1933,SEYCHELLES,,Neil.Delarosa@F26REbIyVtpkY.org                   ,2452299,1575.84
-AAAAAAAALPIOAAAA,Mr.       ,Kendrick            ,Swank                         ,N,10,9,1983,NIGERIA,,Kendrick.Swank@KiHF1kfJUPMgrkxAtGtI.com           ,2452629,6283.76
-AAAAAAAAMAHMAAAA,Sir       ,John                ,Nunez                         ,Y,29,7,1963,GIBRALTAR,,John.Nunez@NXXNFCCxOFqDq6B.com                    ,2452400,8665.51
-AAAAAAAAMBIEAAAA,Dr.       ,Timothy             ,Bruce                         ,Y,25,3,1938,FIJI,,Timothy.Bruce@gO.org                              ,2452530,3006.00
-AAAAAAAAMFGLAAAA,Dr.       ,Ellis               ,Stringer                      ,N,30,3,1985,VIET NAM,,Ellis.Stringer@dLx2T0e7gAp.com                    ,2452520,1646.55
-AAAAAAAAMFNCAAAA,Miss      ,Sandra              ,Chavez                        ,N,15,10,1936,MAURITANIA,,Sandra.Chavez@jNLsx1jyV7C.org                     ,2452610,7062.75
-AAAAAAAAMKHOAAAA,Miss      ,Kristie             ,Ross                          ,N,6,1,1966,BARBADOS,,Kristie.Ross@p.edu                                ,2452439,1842.95
-AAAAAAAANDGCBAAA,Ms.       ,Sheila              ,Hull                          ,N,23,11,1992,EQUATORIAL GUINEA,,Sheila.Hull@eDEnMk74Ukoo.com                      ,2452416,3453.32
-AAAAAAAANIAFBAAA,Dr.       ,Adrian              ,Holt                          ,Y,27,3,1990,SEYCHELLES,,Adrian.Holt@eQCL.org                              ,2452529,1233.10
-AAAAAAAANJJGAAAA,Dr.       ,David               ,Smith                         ,Y,20,7,1939,GUINEA-BISSAU,,David.Smith@q8KF56o7peqsXNf3I.com                 ,2452371,3186.92
-AAAAAAAANNBABAAA,Ms.       ,Cordelia            ,Carpenter                     ,Y,19,8,1990,PALAU,,Cordelia.Carpenter@nsyrjxnu.com                   ,2452487,5297.04
-AAAAAAAANONGAAAA,Dr.       ,Joel                ,Rucker                        ,N,15,2,1947,BOLIVIA,,Joel.Rucker@CaD.edu                               ,2452289,1910.50
-AAAAAAAAOCGFAAAA,Miss      ,Adam                ,Martin                        ,Y,20,9,1970,ARMENIA,,Adam.Martin@0Sb2XqFA9.edu                         ,2452626,3373.66
-AAAAAAAAOFGEAAAA,Sir       ,John                ,Hopkins                       ,N,9,4,1953,MALTA,,John.Hopkins@zsuCL.edu                            ,2452508,5102.37
-AAAAAAAAOFICAAAA,,Ramona              ,Moore                         ,N,,,1949,,,Ramona.Moore@Zk.edu                               ,,1641.74
-AAAAAAAAOFIHBAAA,Mr.       ,Francis             ,Wilhelm                       ,Y,28,1,1985,LEBANON,,Francis.Wilhelm@R3.edu                            ,2452291,11642.40
-AAAAAAAAOLBHBAAA,Dr.       ,Nathaniel           ,Downs                         ,Y,2,7,1944,DOMINICA,,Nathaniel.Downs@sdfiKzLFg7Et.org                  ,2452514,7484.11
-AAAAAAAAOLBHBAAA,Dr.       ,Nathaniel           ,Downs                         ,Y,2,7,1944,DOMINICA,,Nathaniel.Downs@sdfiKzLFg7Et.org                  ,2452514,8594.42
-AAAAAAAAOMMCAAAA,Dr.       ,Roberta             ,Johnson                       ,Y,15,3,1976,ANTIGUA AND BARBUDA,,Roberta.Johnson@uAvA75ZjM.com                     ,2452581,1803.33
-AAAAAAAAPEAIAAAA,Sir       ,William             ,Mason                         ,Y,1,5,1977,KYRGYZSTAN,,William.Mason@RD4e6I1JfQkEL9.org                  ,2452495,3683.03
-AAAAAAAAPIHKAAAA,Dr.       ,Felix               ,Bailey                        ,Y,8,7,1959,TIMOR-LESTE,,Felix.Bailey@0dKxiSYTnCjo5ZPe1.com                ,2452328,2856.00
-AAAAAAAAPINOAAAA,Dr.       ,Michael             ,Johnson                       ,Y,3,1,1976,URUGUAY,,Michael.Johnson@5l6aamKSUv6BV.org                 ,2452531,8948.80
-AAAAAAAAPJAGBAAA,Dr.       ,Michael             ,Stevens                       ,N,28,2,1943,GEORGIA,,Michael.Stevens@c9ygsUdHa3J1XG.com                ,2452349,4491.28
-AAAAAAAAPKCMAAAA,Dr.       ,Harold              ,Williams                      ,N,13,9,1976,QATAR,,Harold.Williams@U44mtEQN0Qrm.org                  ,2452409,1760.85
-AAAAAAAAPNDDAAAA,Mr.       ,Tomas               ,Menendez                      ,N,26,9,1934,FINLAND,,Tomas.Menendez@qibyGN3Ior.edu                     ,2452573,1945.48
+Timing is on.
+c_customer_id,c_salutation,c_first_name,c_last_name,c_preferred_cust_flag,c_birth_day,c_birth_month,c_birth_year,c_birth_country,c_login,c_email_address,c_last_review_date_sk,ctr_total_return
+AAAAAAAAAAAIBAAA,Mr.       ,Eduardo             ,Goodwin                       ,Y,24,11,1950,GHANA,,Eduardo.Goodwin@rolemn2xusv5Ot0.edu               ,2452312,3838.00
+AAAAAAAAABHAAAAA,Sir       ,Robert              ,Thornton                      ,Y,24,5,1924,HONG KONG,,Robert.Thornton@jas.edu                           ,2452431,2434.58
+AAAAAAAAABPNAAAA,Mr.       ,Alonzo              ,Huddleston                    ,Y,19,4,1957,FAROE ISLANDS,,Alonzo.Huddleston@g.edu                           ,2452289,2813.00
+AAAAAAAAAFCGBAAA,Ms.       ,Pamela              ,Slater                        ,Y,2,6,1931,GAMBIA,,Pamela.Slater@ajU1sMrf5vC7.com                    ,2452613,1746.58
+AAAAAAAAAFLBAAAA,Sir       ,Keith               ,Stern                         ,N,18,2,1925,ICELAND,,Keith.Stern@34Hb991eohmd.com                      ,2452549,1850.70
+AAAAAAAAAFLBAAAA,Sir       ,Keith               ,Stern                         ,N,18,2,1925,ICELAND,,Keith.Stern@34Hb991eohmd.com                      ,2452549,10898.40
+AAAAAAAAAFOEBAAA,Dr.       ,Trevor              ,Battle                        ,N,12,8,1953,THAILAND,,Trevor.Battle@0F.com                              ,2452643,3556.00
+AAAAAAAAAIKEAAAA,Dr.       ,Joseph              ,Miller                        ,N,17,12,1930,MONACO,,Joseph.Miller@Ampmde.edu                          ,2452332,7037.55
+AAAAAAAAAJMABAAA,Miss      ,Brenda              ,Sloan                         ,Y,23,3,1982,MALAYSIA,,Brenda.Sloan@csCoX.edu                            ,2452336,1783.19
+AAAAAAAAAKDNAAAA,,,,,,12,,,,,2452544,2448.03
+AAAAAAAAANCLAAAA,Mr.       ,Raymond             ,Dixon                         ,N,31,12,1977,MONTENEGRO,,Raymond.Dixon@07IH.edu                            ,2452514,1785.96
+AAAAAAAAANNNAAAA,Ms.       ,Cindy               ,Julian                        ,Y,4,8,1982,UGANDA,,Cindy.Julian@ChEB5eyUCBe.org                      ,2452368,2449.04
+AAAAAAAAAPKJAAAA,Ms.       ,Elizabeth           ,Pepper                        ,Y,28,12,1930,NICARAGUA,,Elizabeth.Pepper@xlygC22.org                      ,2452645,1764.40
+AAAAAAAABAKCBAAA,Miss      ,Denise              ,Brock                         ,Y,10,4,1958,JAMAICA,,Denise.Brock@7ffTBTNaX7is.com                     ,2452435,1618.24
+AAAAAAAABBMDAAAA,Dr.       ,Walter              ,Bernard                       ,Y,2,10,1948,BELARUS,,Walter.Bernard@Th.org                             ,2452628,1755.66
+AAAAAAAABIBBBAAA,Miss      ,Lorene              ,Mayfield                      ,N,17,12,1947,ALBANIA,,Lorene.Mayfield@ECni6UFkF2.edu                    ,2452450,3157.70
+AAAAAAAABIIDAAAA,Mr.       ,Paul                ,Stevenson                     ,N,26,2,1953,BARBADOS,,Paul.Stevenson@tHMZG9.com                         ,2452488,1947.77
+AAAAAAAABMJAAAAA,Dr.       ,Marion              ,Mclain                        ,N,16,2,1931,ANGUILLA,,Marion.Mclain@PKik2BMH.com                        ,2452382,3134.46
+AAAAAAAABNFHBAAA,Mr.       ,Kristofer           ,Payne                         ,N,12,5,1945,SYRIAN ARAB REPUBLIC,,Kristofer.Payne@nc70sAM.com                       ,2452436,3813.33
+AAAAAAAABOLLAAAA,Miss      ,Lisa                ,Way                           ,N,11,1,1941,LEBANON,,Lisa.Way@nnVbE2MvTT.com                           ,2452383,1829.88
+AAAAAAAABPHKAAAA,Dr.       ,Gabriela            ,Jerome                        ,Y,9,7,1969,IRAQ,,Gabriela.Jerome@Hay.com                           ,2452567,5360.55
+AAAAAAAACBAFAAAA,Dr.       ,Timothy             ,Carroll                       ,Y,14,8,1957,UGANDA,,Timothy.Carroll@pUcgCvxC4nkcM.edu                 ,2452535,1642.80
+AAAAAAAACBPMAAAA,Ms.       ,Shana               ,Fulton                        ,N,10,2,1955,RWANDA,,Shana.Fulton@2CAVqR7d.org                         ,2452378,2089.36
+AAAAAAAACCFCBAAA,Mr.       ,Mark                ,Pacheco                       ,N,9,3,1956,YEMEN,,Mark.Pacheco@NMMki.edu                            ,2452377,1838.48
+AAAAAAAACCMEAAAA,Dr.       ,Adriane             ,Harmon                        ,N,1,10,1964,ARGENTINA,,Adriane.Harmon@X0nMJZPDL.com                      ,2452562,8986.95
+AAAAAAAACCNJAAAA,Dr.       ,Elizabeth           ,Gilbreath                     ,Y,17,1,1985,KIRIBATI,,Elizabeth.Gilbreath@4LxlO8fArnEeEavQe.com         ,2452485,2450.86
+AAAAAAAACDDNAAAA,Ms.       ,Holly               ,Kim                           ,N,15,6,1941,ICELAND,,Holly.Kim@OkTfC7tRYgy4.edu                        ,2452580,2719.44
+AAAAAAAACGILAAAA,Sir       ,Nolan               ,Mosley                        ,N,20,3,1980,KENYA,,Nolan.Mosley@5E.org                               ,2452317,1865.64
+AAAAAAAACHFHBAAA,Mr.       ,Dallas              ,Courtney                      ,Y,21,5,1928,CÔTE D'IVOIRE,,Dallas.Courtney@c7.org                            ,2452496,4394.79
+AAAAAAAACKOFAAAA,Dr.       ,Eric                ,Bucher                        ,Y,19,9,1979,ALBANIA,,Eric.Bucher@sxSne.org                             ,2452541,4662.35
+AAAAAAAACMHNAAAA,Miss      ,Lisa                ,Dukes                         ,Y,4,3,1964,SOLOMON ISLANDS,,Lisa.Dukes@tuRJRXkQm.com                          ,2452303,10387.84
+AAAAAAAACNGBAAAA,Mr.       ,Michael             ,Haley                         ,Y,10,5,1933,SWAZILAND,,Michael.Haley@OfAOvhrm.com                        ,2452359,4187.82
+AAAAAAAACOFAAAAA,Ms.       ,Tammy               ,Searcy                        ,N,6,5,1989,SURINAME,,Tammy.Searcy@6ZFFGtIuCqT.com                      ,2452295,5091.84
+AAAAAAAADBBHAAAA,Dr.       ,Charles             ,Fernandez                     ,N,8,12,1992,CAMBODIA,,Charles.Fernandez@MVhjrzVNVY.com                  ,2452574,4640.37
+AAAAAAAADFCBBAAA,Dr.       ,Micheal             ,Collier                       ,N,1,9,1934,HONDURAS,,Micheal.Collier@NztJvzb.org                       ,2452446,15944.40
+AAAAAAAADIHHAAAA,Miss      ,Vikki               ,Garza                         ,Y,29,8,1950,NAMIBIA,,Vikki.Garza@v.edu                                 ,2452608,2373.84
+AAAAAAAADJAPAAAA,Ms.       ,Angel               ,Dodd                          ,Y,22,12,1950,TIMOR-LESTE,,Angel.Dodd@gQOLRKqU285BfTIT.edu                   ,2452634,2227.83
+AAAAAAAADKEFAAAA,Ms.       ,Martha              ,Dillon                        ,N,9,12,1971,VANUATU,,Martha.Dillon@iKkeDtKERbu.org                     ,2452404,1863.40
+AAAAAAAADKIFAAAA,Sir       ,Walter              ,Stout                         ,Y,18,1,1970,BURUNDI,,Walter.Stout@Q961tU4iePsOy.org                    ,2452449,2465.55
+AAAAAAAADLHNAAAA,Mr.       ,Joseph              ,Mckinney                      ,Y,23,3,1940,ARMENIA,,Joseph.Mckinney@4YYp7B8ccPz.edu                   ,2452595,1820.02
+AAAAAAAADMMDBAAA,Mr.       ,Darrell             ,Padgett                       ,Y,17,3,1992,HONDURAS,,Darrell.Padgett@IrqARXX.org                       ,2452554,2052.54
+AAAAAAAADNHPAAAA,Mr.       ,John                ,Mathews                       ,N,23,2,1925,NICARAGUA,,John.Mathews@UOtpEd.edu                           ,2452543,7883.40
+AAAAAAAADOCMAAAA,Dr.       ,Yvonne              ,Poirier                       ,Y,30,1,1950,ESTONIA,,Yvonne.Poirier@l.org                              ,2452648,4075.55
+AAAAAAAADODBAAAA,Mrs.      ,Elizabeth           ,Spalding                      ,N,27,11,1947,KAZAKHSTAN,,Elizabeth.Spalding@ihnjlmxMbs.edu                 ,2452318,10349.68
+AAAAAAAAEBAOAAAA,Miss      ,Amy                 ,Causey                        ,N,21,9,1951,COMOROS,,Amy.Causey@7EvHzf02opq6QlO.com                    ,2452443,8005.40
+AAAAAAAAEBLEAAAA,Mr.       ,Leroy               ,Couture                       ,N,7,5,1938,SWITZERLAND,,Leroy.Couture@vqrL.com                            ,2452595,1683.88
+AAAAAAAAEEADAAAA,Mr.       ,Robert              ,Donohue                       ,Y,21,8,1938,SWAZILAND,,Robert.Donohue@U2xz7.org                          ,2452436,11083.80
+AAAAAAAAEHAABAAA,Dr.       ,Victoria            ,Morgan                        ,Y,31,5,1960,JERSEY,,Victoria.Morgan@Sk3jzrDZTq.org                    ,2452646,1712.16
+AAAAAAAAEHGOAAAA,Miss      ,Jillian             ,Nelson                        ,Y,27,7,1978,TURKMENISTAN,,Jillian.Nelson@ph0qObqh3fbv.com                   ,2452315,4432.69
+AAAAAAAAEHPNAAAA,Dr.       ,Rachael             ,King                          ,Y,28,11,1927,PANAMA,,Rachael.King@t8dA2klrEIBiCd.edu                   ,2452438,2251.50
+AAAAAAAAEIDHAAAA,Sir       ,George              ,Garcia                        ,Y,21,4,1960,CROATIA,,George.Garcia@uzGHyYUnvs.edu                      ,2452306,1783.12
+AAAAAAAAEIDHAAAA,Sir       ,George              ,Garcia                        ,Y,21,4,1960,CROATIA,,George.Garcia@uzGHyYUnvs.edu                      ,2452306,1857.63
+AAAAAAAAEIOBBAAA,Mr.       ,Gary                ,Davis                         ,N,9,6,1992,KYRGYZSTAN,,Gary.Davis@GTXc2AbKvkM.edu                        ,2452322,1652.70
+AAAAAAAAEJFNAAAA,Dr.       ,Chad                ,Baldwin                       ,Y,11,11,1937,BULGARIA,,Chad.Baldwin@cN988.org                            ,2452560,11133.36
+AAAAAAAAEJOPAAAA,Dr.       ,Alexandra           ,Henderson                     ,N,4,2,1986,MONTENEGRO,,Alexandra.Henderson@4FCXABbkVkrLK.com             ,2452376,3426.36
+AAAAAAAAELEBAAAA,Mrs.      ,Dianne              ,Ross                          ,Y,19,7,1949,ICELAND,,Dianne.Ross@D4VH75e9n.org                         ,2452429,4018.30
+AAAAAAAAEMDIBAAA,Sir       ,Scott               ,Obrien                        ,Y,3,8,1926,JERSEY,,Scott.Obrien@a84VTAJCTB.com                       ,2452504,1456.67
+AAAAAAAAEMIAAAAA,Dr.       ,Danny               ,Ness                          ,Y,25,10,1955,IRAQ,,Danny.Ness@CC8vAp.edu                             ,2452487,5569.50
+AAAAAAAAEMNGBAAA,Mr.       ,Milton              ,Oakley                        ,Y,10,10,1976,FINLAND,,Milton.Oakley@O4DHXT.com                          ,2452355,1505.16
+AAAAAAAAEMPKAAAA,Sir       ,Gilbert             ,Palmer                        ,N,23,10,1933,BRUNEI DARUSSALAM,,Gilbert.Palmer@7UYjIOOIg0.org                     ,2452463,2391.95
+AAAAAAAAENFLAAAA,Sir       ,Joseph              ,Gaffney                       ,N,22,1,1967,BULGARIA,,Joseph.Gaffney@nBDj.org                           ,2452608,6135.48
+AAAAAAAAEPELAAAA,Dr.       ,Emily               ,Thomas                        ,Y,14,3,1981,MOZAMBIQUE,,Emily.Thomas@qtJnzLvYcK598T.edu                   ,2452617,3239.04
+AAAAAAAAFBLHAAAA,Mr.       ,Carter              ,Lombardo                      ,N,22,11,1950,MONACO,,Carter.Lombardo@X.edu                             ,2452582,3965.43
+AAAAAAAAFHODBAAA,Ms.       ,Diana               ,Hall                          ,N,14,7,1934,LATVIA,,Diana.Hall@Be.com                                 ,2452546,9391.76
+AAAAAAAAFLAJAAAA,Mr.       ,John                ,Hardy                         ,Y,4,9,1977,ANGUILLA,,John.Hardy@LnaYnyZ9AYee.edu                       ,2452289,1640.80
+AAAAAAAAFLDFBAAA,Mr.       ,Demetrius           ,Hunt                          ,N,30,8,1956,ZAMBIA,,Demetrius.Hunt@J3.com                             ,2452647,3673.60
+AAAAAAAAFMCFBAAA,Mrs.      ,Karen               ,Middleton                     ,Y,21,10,1934,GUADELOUPE,,Karen.Middleton@q.com                             ,2452343,1415.70
+AAAAAAAAFMENAAAA,Ms.       ,Anne                ,Jernigan                      ,Y,14,8,1952,ITALY,,Anne.Jernigan@BBtNT7SneOEKG.edu                   ,2452612,1735.14
+AAAAAAAAFMLEAAAA,Mr.       ,Gavin               ,,,21,,1933,BRAZIL,,Gavin.Maples@AT6ClrGUc79.com                      ,,4882.15
+AAAAAAAAFMPMAAAA,Sir       ,Jack                ,Thomas                        ,Y,12,1,1971,ARMENIA,,Jack.Thomas@dn0mBXIEu7XPH.com                     ,2452409,2501.94
+AAAAAAAAFNHBBAAA,Miss      ,Jennifer            ,Long                          ,Y,12,6,1984,VENEZUELA,,Jennifer.Long@RyRC5oxxCoVPG.com                   ,2452285,4430.88
+AAAAAAAAGAGEAAAA,Sir       ,Jeffrey             ,Cleveland                     ,N,2,8,1974,GUADELOUPE,,Jeffrey.Cleveland@ijNnAoDZQajhuz.edu              ,2452380,4215.15
+AAAAAAAAGCNPAAAA,Sir       ,Jack                ,Stewart                       ,N,19,12,1926,SAN MARINO,,Jack.Stewart@G6N710E1oO.edu                       ,2452618,2859.50
+AAAAAAAAGFKEAAAA,Dr.       ,,Brown                         ,,,4,1933,ROMANIA,,,,11364.32
+AAAAAAAAGGBIBAAA,Dr.       ,Michael             ,Christiansen                  ,Y,4,3,1947,ISRAEL,,Michael.Christiansen@kQmauEb.org                  ,2452583,1726.20
+AAAAAAAAGHHEAAAA,Sir       ,Jerry               ,Glover                        ,Y,3,6,1942,ANTIGUA AND BARBUDA,,Jerry.Glover@yCUI3N8C0o7LPvL.edu                  ,2452645,6382.26
+AAAAAAAAGICFAAAA,Mr.       ,Charles             ,Sloan                         ,Y,8,4,1991,KOREA, REPUBLIC OF,,Charles.Sloan@gnfGZRA0F.com                       ,2452431,2793.57
+AAAAAAAAGIFHBAAA,Sir       ,Joe                 ,Jackson                       ,N,31,10,1969,FRENCH POLYNESIA,,Joe.Jackson@eHmBJ4QqjNKJypF.com                   ,2452534,1692.69
+AAAAAAAAGJEGBAAA,Dr.       ,Carlos              ,Hampton                       ,N,18,11,1947,DOMINICA,,Carlos.Hampton@nrYQ8MXgIunX6gf.com                ,2452470,5556.75
+AAAAAAAAGMDJAAAA,Dr.       ,Christopher         ,Payne                         ,Y,30,12,1958,DJIBOUTI,,Christopher.Payne@R6POV.org                       ,2452350,1638.72
+AAAAAAAAGOPMAAAA,Mrs.      ,Donna               ,West                          ,N,2,12,1977,SOLOMON ISLANDS,,Donna.West@6Q.com                                 ,2452645,1623.20
+AAAAAAAAHBBDBAAA,Mrs.      ,,Henry                         ,N,,,1948,ARUBA,,,2452337,4377.30
+AAAAAAAAHBBDBAAA,Mrs.      ,,Henry                         ,N,,,1948,ARUBA,,,2452337,5013.12
+AAAAAAAAHCJKAAAA,Ms.       ,Emma                ,Bailey                        ,N,2,10,1935,LATVIA,,Emma.Bailey@beDlbUDUUcPhilRyy9.edu                ,2452491,5638.14
+AAAAAAAAHGCHBAAA,Dr.       ,Thomas              ,Hull                          ,Y,24,2,1931,DENMARK,,Thomas.Hull@XobY92y.com                           ,2452648,2487.60
+AAAAAAAAHGIFAAAA,Sir       ,James               ,Turner                        ,N,25,10,1937,JERSEY,,James.Turner@4RGTbOoV.org                         ,2452293,2757.44
+AAAAAAAAHIIDBAAA,Mrs.      ,Andrew              ,Barrett                       ,Y,24,5,1992,GUERNSEY,,Andrew.Barrett@i85phxAtKhZfES.com                 ,2452319,7854.67
+AAAAAAAAHJOBAAAA,Mrs.      ,April               ,Wallace                       ,N,19,7,1930,FIJI,,April.Wallace@9iuUi3U0K.edu                       ,2452382,4596.60
+AAAAAAAAHMEFBAAA,,Joshua              ,Bruno                         ,,1,11,,,,Joshua.Bruno@7Ds6hF5nMgOTel9.org                  ,2452303,1806.33
+AAAAAAAAHMNNAAAA,Sir       ,Jeffery             ,Thomas                        ,Y,8,3,1929,MONTSERRAT,,Jeffery.Thomas@Ld7t.org                           ,2452598,2441.40
+AAAAAAAAICMGAAAA,Miss      ,Edith               ,Robinson                      ,Y,11,7,1967,PUERTO RICO,,Edith.Robinson@zuf2DUz3bhKnEB.org                 ,2452319,7193.61
+AAAAAAAAIGLCBAAA,Miss      ,Erika               ,Edmondson                     ,Y,1,8,1944,DJIBOUTI,,Erika.Edmondson@BuAbOSrTiD06f.edu                 ,2452460,2381.83
+AAAAAAAAIJGGBAAA,Ms.       ,Carolyn             ,Cardona                       ,N,15,9,1936,BULGARIA,,Carolyn.Cardona@EhKjaAPoU8gf.edu                  ,2452453,7659.19
+AAAAAAAAIMAHBAAA,Mrs.      ,Elizabeth           ,Guzman                        ,Y,19,9,1950,GREECE,,Elizabeth.Guzman@4Rq0Cyh9c.edu                    ,2452315,1856.20
+AAAAAAAAIMGFAAAA,Dr.       ,Paul                ,Powell                        ,Y,28,11,1935,GREECE,,Paul.Powell@3EgM4I28gtaqb.org                     ,2452320,8416.80
+AAAAAAAAIMJCBAAA,Dr.       ,Dennis              ,Brown                         ,Y,24,10,1978,BULGARIA,,Dennis.Brown@fAvOOY4Q13dVdPfb.com                 ,2452404,1552.46
+AAAAAAAAIMJCBAAA,Dr.       ,Dennis              ,Brown                         ,Y,24,10,1978,BULGARIA,,Dennis.Brown@fAvOOY4Q13dVdPfb.com                 ,2452404,2639.34
+AAAAAAAAIMPNAAAA,Sir       ,Charles             ,Chadwick                      ,N,21,1,1936,ALAND ISLANDS,,Charles.Chadwick@ofbPzGan.org                     ,2452414,4241.44
+AAAAAAAAIPHCAAAA,Mr.       ,Robert              ,Parham                        ,Y,9,2,1967,ETHIOPIA,,Robert.Parham@0GnPcZbUE.org                       ,2452519,4317.18
+AAAAAAAAJABDBAAA,,,,,9,6,1972,TIMOR-LESTE,,,,2387.28
+(100 rows)
+Time: 25189,746 ms (00:25,190)

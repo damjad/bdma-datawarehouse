@@ -1,100 +1,104 @@
-n stbarcallyationought                            ,amalgscholar #2                                   ,rock                                              ,Music                                             ,432.0566801619433198
-n stbarcallyationought                            ,amalgscholar #2                                   ,rock                                              ,,432.0566801619433198
-n stbarcallyationought                            ,amalgscholar #2                                   ,,,432.0566801619433198
-n stbarcallyationought                            ,,,,432.0566801619433198
-antiablen stcally                                 ,univbrand #6                                      ,jewelry boxes                                     ,Jewelry                                           ,436.2570281124497992
-antiablen stcally                                 ,univbrand #6                                      ,jewelry boxes                                     ,,436.2570281124497992
-antiablen stcally                                 ,univbrand #6                                      ,,,436.2570281124497992
-antiablen stcally                                 ,,,,436.2570281124497992
-antiantiableeseought                              ,exportiexporti #2                                 ,toddlers                                          ,Children                                          ,436.5587044534412955
-antiantiableeseought                              ,exportiexporti #2                                 ,toddlers                                          ,,436.5587044534412955
-antiantiableeseought                              ,exportiexporti #2                                 ,,,436.5587044534412955
-antiantiableeseought                              ,,,,436.5587044534412955
-n stcallyn stationought                           ,exportischolar #2                                 ,pop                                               ,Music                                             ,436.8525896414342629
-n stcallyn stationought                           ,exportischolar #2                                 ,pop                                               ,,436.8525896414342629
-n stcallyn stationought                           ,exportischolar #2                                 ,,,436.8525896414342629
-n stcallyn stationought                           ,,,,436.8525896414342629
-ationantiableationought                           ,amalgscholar #2                                   ,rock                                              ,Music                                             ,438.1330645161290323
-ationantiableationought                           ,amalgscholar #2                                   ,rock                                              ,,438.1330645161290323
-ationantiableationought                           ,amalgscholar #2                                   ,,,438.1330645161290323
-ationantiableationought                           ,,,,438.1330645161290323
-n stcallyesepriought                              ,edu packscholar #2                                ,classical                                         ,Music                                             ,438.5609756097560976
-n stcallyesepriought                              ,edu packscholar #2                                ,classical                                         ,,438.5609756097560976
-n stcallyesepriought                              ,edu packscholar #2                                ,,,438.5609756097560976
-n stcallyesepriought                              ,,,,438.5609756097560976
-oughteingoughtn st                                ,importobrand #6                                   ,costume                                           ,Jewelry                                           ,441.2685950413223140
-oughteingoughtn st                                ,importobrand #6                                   ,costume                                           ,,441.2685950413223140
-oughteingoughtn st                                ,importobrand #6                                   ,,,441.2685950413223140
-oughteingoughtn st                                ,,,,441.2685950413223140
-prieingeseantiought                               ,amalgunivamalg #4                                 ,cooking                                           ,Books                                             ,441.7644628099173554
-prieingeseantiought                               ,amalgunivamalg #4                                 ,cooking                                           ,,441.7644628099173554
-prieingeseantiought                               ,amalgunivamalg #4                                 ,,,441.7644628099173554
-prieingeseantiought                               ,,,,441.7644628099173554
-ationationpribarought                             ,scholarmaxi #10                                   ,history                                           ,Books                                             ,442.0413223140495868
-ationationpribarought                             ,scholarmaxi #10                                   ,history                                           ,,442.0413223140495868
-ationationpribarought                             ,scholarmaxi #10                                   ,,,442.0413223140495868
-ationationpribarought                             ,,,,442.0413223140495868
-n stpribarought                                   ,edu packexporti #2                                ,school-uniforms                                   ,Children                                          ,442.2154471544715447
-n stpribarought                                   ,edu packexporti #2                                ,school-uniforms                                   ,,442.2154471544715447
-n stpribarought                                   ,edu packexporti #2                                ,,,442.2154471544715447
-n stpribarought                                   ,,,,442.2154471544715447
-pricallyantiese                                   ,amalgunivamalg #8                                 ,cameras                                           ,Electronics                                       ,442.7408906882591093
-pricallyantiese                                   ,amalgunivamalg #8                                 ,cameras                                           ,,442.7408906882591093
-pricallyantiese                                   ,amalgunivamalg #8                                 ,,,442.7408906882591093
-pricallyantiese                                   ,,,,442.7408906882591093
-n stoughtoughtbarought                            ,amalgscholar #2                                   ,rock                                              ,Music                                             ,443.9625000000000000
-n stoughtoughtbarought                            ,amalgscholar #2                                   ,rock                                              ,,443.9625000000000000
-n stoughtoughtbarought                            ,amalgscholar #2                                   ,,,443.9625000000000000
-n stoughtoughtbarought                            ,,,,443.9625000000000000
-antiableableought                                 ,importoamalgamalg #2                              ,monitors                                          ,Electronics                                       ,444.6460905349794239
-antiableableought                                 ,importoamalgamalg #2                              ,monitors                                          ,,444.6460905349794239
-antiableableought                                 ,importoamalgamalg #2                              ,,,444.6460905349794239
-antiableableought                                 ,,,,444.6460905349794239
-prieseoughtable                                   ,exportischolar #2                                 ,pop                                               ,Music                                             ,445.2704918032786885
-prieseoughtable                                   ,exportischolar #2                                 ,pop                                               ,,445.2704918032786885
-prieseoughtable                                   ,exportischolar #2                                 ,,,445.2704918032786885
-prieseoughtable                                   ,,,,445.2704918032786885
-ationpribarought                                  ,amalgunivamalg #1                                 ,cameras                                           ,Electronics                                       ,445.5301204819277108
-ationpribarought                                  ,amalgunivamalg #1                                 ,cameras                                           ,,445.5301204819277108
-ationpribarought                                  ,amalgunivamalg #1                                 ,,,445.5301204819277108
-ationpribarought                                  ,,,,445.5301204819277108
-n stn stesebarought                               ,importoexporti #2                                 ,infants                                           ,Children                                          ,445.9076305220883534
-n stn stesebarought                               ,importoexporti #2                                 ,infants                                           ,,445.9076305220883534
-n stn stesebarought                               ,importoexporti #2                                 ,,,445.9076305220883534
-n stn stesebarought                               ,,,,445.9076305220883534
-prioughtanticallyought                            ,importoexporti #2                                 ,infants                                           ,Children                                          ,445.9596774193548387
-prioughtanticallyought                            ,importoexporti #2                                 ,infants                                           ,,445.9596774193548387
-prioughtanticallyought                            ,importoexporti #2                                 ,,,445.9596774193548387
-prioughtanticallyought                            ,,,,445.9596774193548387
-oughtationpriantiought                            ,exportiedu pack #2                                ,kids                                              ,Shoes                                             ,445.9638554216867470
-oughtationpriantiought                            ,exportiedu pack #2                                ,kids                                              ,,445.9638554216867470
-oughtationpriantiought                            ,exportiedu pack #2                                ,,,445.9638554216867470
-oughtationpriantiought                            ,,,,445.9638554216867470
-priantioughtantiought                             ,importomaxi #10                                   ,business                                          ,Books                                             ,446.1795918367346939
-priantioughtantiought                             ,importomaxi #10                                   ,business                                          ,,446.1795918367346939
-priantioughtantiought                             ,importomaxi #10                                   ,,,446.1795918367346939
-priantioughtantiought                             ,,,,446.1795918367346939
-n stpribarbarought                                ,edu packbrand #8                                  ,estate                                            ,Jewelry                                           ,446.3160000000000000
-n stpribarbarought                                ,edu packbrand #8                                  ,estate                                            ,,446.3160000000000000
-n stpribarbarought                                ,edu packbrand #8                                  ,,,446.3160000000000000
-n stpribarbarought                                ,,,,446.3160000000000000
-ationn steingantiought                            ,edu packcorp #2                                   ,bracelets                                         ,Jewelry                                           ,446.5860655737704918
-ationn steingantiought                            ,edu packcorp #2                                   ,bracelets                                         ,,446.5860655737704918
-ationn steingantiought                            ,edu packcorp #2                                   ,,,446.5860655737704918
-ationn steingantiought                            ,,,,446.5860655737704918
-antioughtcallyantiought                           ,edu packamalgamalg #10                            ,automotive                                        ,Electronics                                       ,446.7148594377510040
-antioughtcallyantiought                           ,edu packamalgamalg #10                            ,automotive                                        ,,446.7148594377510040
-antioughtcallyantiought                           ,edu packamalgamalg #10                            ,,,446.7148594377510040
-antioughtcallyantiought                           ,,,,446.7148594377510040
-antiableprin st                                   ,edu packimporto #2                                ,sports-apparel                                    ,Men                                               ,446.7966804979253112
-antiableprin st                                   ,edu packimporto #2                                ,sports-apparel                                    ,,446.7966804979253112
-antiableprin st                                   ,edu packimporto #2                                ,,,446.7966804979253112
-antiableprin st                                   ,,,,446.7966804979253112
-antioughtantically                                ,corpnameless #6                                   ,football                                          ,Sports                                            ,446.9635627530364372
-antioughtantically                                ,corpnameless #6                                   ,football                                          ,,446.9635627530364372
-antioughtantically                                ,corpnameless #6                                   ,,,446.9635627530364372
-antioughtantically                                ,,,,446.9635627530364372
-antin stn stanti                                  ,amalgamalg #2                                     ,dresses                                           ,Women                                             ,447.3801652892561983
-antin stn stanti                                  ,amalgamalg #2                                     ,dresses                                           ,,447.3801652892561983
-antin stn stanti                                  ,amalgamalg #2                                     ,,,447.3801652892561983
-antin stn stanti                                  ,,,,447.3801652892561983
+Timing is on.
+i_product_name,i_brand,i_class,i_category,qoh
+ationbarn station                                 ,amalgbrand #8                                     ,bathroom                                          ,Home                                              ,430.3577235772357724
+ationbarn station                                 ,amalgbrand #8                                     ,bathroom                                          ,,430.3577235772357724
+ationbarn station                                 ,amalgbrand #8                                     ,,,430.3577235772357724
+ationbarn station                                 ,,,,430.3577235772357724
+ationoughtn stn st                                ,edu packimporto #2                                ,sports-apparel                                    ,Men                                               ,435.2650602409638554
+ationoughtn stn st                                ,edu packimporto #2                                ,sports-apparel                                    ,,435.2650602409638554
+ationoughtn stn st                                ,edu packimporto #2                                ,,,435.2650602409638554
+ationoughtn stn st                                ,,,,435.2650602409638554
+ationationprin st                                 ,amalgexporti #2                                   ,newborn                                           ,Children                                          ,435.5102880658436214
+ationationprin st                                 ,amalgexporti #2                                   ,newborn                                           ,,435.5102880658436214
+ationationprin st                                 ,amalgexporti #2                                   ,,,435.5102880658436214
+ationationprin st                                 ,,,,435.5102880658436214
+oughtcallyn stantiought                           ,corpcorp #2                                       ,rings                                             ,Jewelry                                           ,436.4940239043824701
+oughtcallyn stantiought                           ,corpcorp #2                                       ,rings                                             ,,436.4940239043824701
+oughtcallyn stantiought                           ,corpcorp #2                                       ,,,436.4940239043824701
+oughtcallyn stantiought                           ,,,,436.4940239043824701
+callyesebaration                                  ,namelesscorp #7                                   ,mens watch                                        ,Jewelry                                           ,437.3943089430894309
+callyesebaration                                  ,namelesscorp #7                                   ,mens watch                                        ,,437.3943089430894309
+callyesebaration                                  ,namelesscorp #7                                   ,,,437.3943089430894309
+callyesebaration                                  ,,,,437.3943089430894309
+n stprieingationought                             ,namelesscorp #8                                   ,mens watch                                        ,Jewelry                                           ,439.0647773279352227
+n stprieingationought                             ,namelesscorp #8                                   ,mens watch                                        ,,439.0647773279352227
+n stprieingationought                             ,namelesscorp #8                                   ,,,439.0647773279352227
+n stprieingationought                             ,,,,439.0647773279352227
+priationn stn st                                  ,importoscholar #2                                 ,country                                           ,Music                                             ,439.0960000000000000
+priationn stn st                                  ,importoscholar #2                                 ,country                                           ,,439.0960000000000000
+priationn stn st                                  ,importoscholar #2                                 ,,,439.0960000000000000
+priationn stn st                                  ,,,,439.0960000000000000
+n stcallyableoughtought                           ,amalgimporto #2                                   ,accessories                                       ,Men                                               ,439.7183673469387755
+n stcallyableoughtought                           ,amalgimporto #2                                   ,accessories                                       ,,439.7183673469387755
+n stcallyableoughtought                           ,amalgimporto #2                                   ,,,439.7183673469387755
+n stcallyableoughtought                           ,,,,439.7183673469387755
+n stbarought                                      ,corpbrand #10                                     ,rugs                                              ,Home                                              ,440.3147410358565737
+n stbarought                                      ,corpbrand #10                                     ,rugs                                              ,,440.3147410358565737
+n stbarought                                      ,corpbrand #10                                     ,,,440.3147410358565737
+n stbarought                                      ,,,,440.3147410358565737
+n stn stantioughtought                            ,exportimaxi #8                                    ,computers                                         ,Books                                             ,440.9285714285714286
+n stn stantioughtought                            ,exportimaxi #8                                    ,computers                                         ,,440.9285714285714286
+n stn stantioughtought                            ,exportimaxi #8                                    ,,,440.9285714285714286
+n stn stantioughtought                            ,,,,440.9285714285714286
+n stcallyesepriought                              ,edu packscholar #2                                ,classical                                         ,Music                                             ,441.5418326693227092
+n stcallyesepriought                              ,edu packscholar #2                                ,classical                                         ,,441.5418326693227092
+n stcallyesepriought                              ,edu packscholar #2                                ,,,441.5418326693227092
+n stcallyesepriought                              ,,,,441.5418326693227092
+priantiationation                                 ,importoimporto #2                                 ,shirts                                            ,Men                                               ,441.6707317073170732
+priantiationation                                 ,importoimporto #2                                 ,shirts                                            ,,441.6707317073170732
+priantiationation                                 ,importoimporto #2                                 ,,,441.6707317073170732
+priantiationation                                 ,,,,441.6707317073170732
+oughtbarantiese                                   ,exportiedu pack #2                                ,kids                                              ,Shoes                                             ,441.7459677419354839
+oughtbarantiese                                   ,exportiedu pack #2                                ,kids                                              ,,441.7459677419354839
+oughtbarantiese                                   ,exportiedu pack #2                                ,,,441.7459677419354839
+oughtbarantiese                                   ,,,,441.7459677419354839
+oughtbarprin st                                   ,edu packscholar #2                                ,classical                                         ,Music                                             ,442.0734693877551020
+oughtbarprin st                                   ,edu packscholar #2                                ,classical                                         ,,442.0734693877551020
+oughtbarprin st                                   ,edu packscholar #2                                ,,,442.0734693877551020
+oughtbarprin st                                   ,,,,442.0734693877551020
+ationeingation                                    ,amalgexporti #2                                   ,newborn                                           ,Children                                          ,443.7822580645161290
+ationeingation                                    ,amalgexporti #2                                   ,newborn                                           ,,443.7822580645161290
+ationeingation                                    ,amalgexporti #2                                   ,,,443.7822580645161290
+ationeingation                                    ,,,,443.7822580645161290
+ationbarn stableought                             ,corpbrand #8                                      ,rugs                                              ,Home                                              ,444.0927419354838710
+ationbarn stableought                             ,corpbrand #8                                      ,rugs                                              ,,444.0927419354838710
+ationbarn stableought                             ,corpbrand #8                                      ,,,444.0927419354838710
+ationbarn stableought                             ,,,,444.0927419354838710
+eseationcallyableought                            ,importoexporti #1                                 ,infants                                           ,Children                                          ,444.5443548387096774
+eseationcallyableought                            ,importoexporti #1                                 ,infants                                           ,,444.5443548387096774
+eseationcallyableought                            ,importoexporti #1                                 ,,,444.5443548387096774
+eseationcallyableought                            ,,,,444.5443548387096774
+eingableableationought                            ,amalgimporto #1                                   ,accessories                                       ,Men                                               ,444.7142857142857143
+eingableableationought                            ,amalgimporto #1                                   ,accessories                                       ,,444.7142857142857143
+eingableableationought                            ,amalgimporto #1                                   ,,,444.7142857142857143
+eingableableationought                            ,,,,444.7142857142857143
+n steseantiation                                  ,univmaxi #10                                      ,pools                                             ,Sports                                            ,445.3319672131147541
+n steseantiation                                  ,univmaxi #10                                      ,pools                                             ,,445.3319672131147541
+n steseantiation                                  ,univmaxi #10                                      ,,,445.3319672131147541
+n steseantiation                                  ,,,,445.3319672131147541
+antibareingantiought                              ,importoimporto #2                                 ,shirts                                            ,Men                                               ,445.4065040650406504
+antibareingantiought                              ,importoimporto #2                                 ,shirts                                            ,,445.4065040650406504
+antibareingantiought                              ,importoimporto #2                                 ,,,445.4065040650406504
+antibareingantiought                              ,,,,445.4065040650406504
+ationantibarationought                            ,univmaxi #8                                       ,pools                                             ,Sports                                            ,445.4190871369294606
+ationantibarationought                            ,univmaxi #8                                       ,pools                                             ,,445.4190871369294606
+ationantibarationought                            ,univmaxi #8                                       ,,,445.4190871369294606
+ationantibarationought                            ,,,,445.4190871369294606
+oughtpricallybarought                             ,edu packexporti #2                                ,school-uniforms                                   ,Children                                          ,445.4859437751004016
+oughtpricallybarought                             ,edu packexporti #2                                ,school-uniforms                                   ,,445.4859437751004016
+oughtpricallybarought                             ,edu packexporti #2                                ,,,445.4859437751004016
+oughtpricallybarought                             ,,,,445.4859437751004016
+ableationprieing                                  ,amalgamalg #1                                     ,dresses                                           ,Women                                             ,445.9958333333333333
+ableationprieing                                  ,amalgamalg #1                                     ,dresses                                           ,,445.9958333333333333
+ableationprieing                                  ,amalgamalg #1                                     ,,,445.9958333333333333
+ableationprieing                                  ,,,,445.9958333333333333
+pribarpribarought                                 ,edu packimporto #2                                ,sports-apparel                                    ,Men                                               ,446.0408163265306122
+pribarpribarought                                 ,edu packimporto #2                                ,sports-apparel                                    ,,446.0408163265306122
+pribarpribarought                                 ,edu packimporto #2                                ,,,446.0408163265306122
+pribarpribarought                                 ,,,,446.0408163265306122
+oughtn stprin st                                  ,exportiamalgamalg #8                              ,stereo                                            ,Electronics                                       ,447.2666666666666667
+oughtn stprin st                                  ,exportiamalgamalg #8                              ,stereo                                            ,,447.2666666666666667
+oughtn stprin st                                  ,exportiamalgamalg #8                              ,,,447.2666666666666667
+oughtn stprin st                                  ,,,,447.2666666666666667
+(100 rows)
+Time: 42067,950 ms (00:42,068)

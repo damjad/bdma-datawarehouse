@@ -1,2 +1,9 @@
-M,U,4 yr Degree         ,1,4500,1,Low Risk  ,1,4,1,6,1,0,1
-M,W,2 yr Degree         ,1,9000,1,Unknown   ,1,4,1,6,1,6,1
+Timing is on.
+cd_gender,cd_marital_status,cd_education_status,cnt1,cd_purchase_estimate,cnt2,cd_credit_rating,cnt3,cd_dep_count,cnt4,cd_dep_employed_count,cnt5,cd_dep_college_count,cnt6
+F,D,Advanced Degree     ,1,3000,1,High Risk ,1,2,1,4,1,5,1
+F,D,Unknown             ,1,1500,1,Good      ,1,6,1,5,1,4,1
+M,D,College             ,1,8500,1,Low Risk  ,1,3,1,0,1,1,1
+M,D,Primary             ,1,7000,1,Unknown   ,1,2,1,1,1,1,1
+M,W,Unknown             ,1,4500,1,Good      ,1,5,1,0,1,1,1
+(5 rows)
+Time: 1692925,859 ms (28:12,926)
