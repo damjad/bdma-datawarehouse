@@ -1,0 +1,4 @@
+ERROR:  function grouping(character) does not exist
+LINE 2:         s_state, grouping(s_state) g_state,
+                         ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.

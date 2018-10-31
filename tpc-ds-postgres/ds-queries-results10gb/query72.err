@@ -1,0 +1,4 @@
+ERROR:  function date_add(date, integer) does not exist
+LINE 20:   and d3.d_date > date_add(cast(d1.d_date as date), 5)
+                           ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.

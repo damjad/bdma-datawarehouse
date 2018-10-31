@@ -1,0 +1,4 @@
+ERROR:  function date_add(date, integer) does not exist
+LINE 10:                   and date_add(cast('2000-08-23' as date), 3...
+                               ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.

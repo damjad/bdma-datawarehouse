@@ -1,0 +1,4 @@
+ERROR:  function rollup(character, character, character, character) does not exist
+LINE 12:        group by rollup(i_product_name
+                         ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
