@@ -1,0 +1,4 @@
+ERROR:  function rollup(text, text) does not exist
+LINE 122:  group by rollup (channel, id)
+                    ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
