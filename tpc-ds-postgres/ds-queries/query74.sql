@@ -4,7 +4,7 @@ with year_total as (
        ,c_first_name customer_first_name
        ,c_last_name customer_last_name
        ,d_year as year
-       ,max(ss_net_paid) year_total
+       ,sum(ss_net_paid) year_total
        ,'s' sale_type
  from customer
      ,store_sales
@@ -21,7 +21,7 @@ with year_total as (
        ,c_first_name customer_first_name
        ,c_last_name customer_last_name
        ,d_year as year
-       ,max(ws_net_paid) year_total
+       ,sum(ws_net_paid) year_total
        ,'w' sale_type
  from customer
      ,web_sales
@@ -55,7 +55,7 @@ with year_total as (
          and t_w_firstyear.year_total > 0
          and case when t_w_firstyear.year_total > 0 then t_w_secyear.year_total / t_w_firstyear.year_total else null end
            > case when t_s_firstyear.year_total > 0 then t_s_secyear.year_total / t_s_firstyear.year_total else null end
- order by 2,1,3
+ order by 1,1,1
 limit 100;
 
 -- end query 1 in stream 0 using template query74.tpl

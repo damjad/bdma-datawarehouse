@@ -1,4 +1,0 @@
-ERROR:  subquery in FROM must have an alias
-LINE 4:   from (select ws_sold_date_sk sold_date_sk
-               ^
-HINT:  For example, FROM (SELECT ...) [AS] foo.

@@ -1,0 +1,4 @@
+ERROR:  function rollup(character, character varying, character, character varying) does not exist
+LINE 26:  group by rollup (i_item_id, ca_country, ca_state, ca_county...
+                   ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.

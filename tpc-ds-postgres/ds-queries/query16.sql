@@ -9,11 +9,11 @@ from
   ,customer_address
   ,call_center
 where
-    d_date between '1999-2-01' and 
-           (cast('1999-2-01' as date) + 60 days)
+    d_date between '2002-2-01' and 
+           (cast('2002-2-01' as date) + 60*INTERVAL '1 day')
 and cs1.cs_ship_date_sk = d_date_sk
 and cs1.cs_ship_addr_sk = ca_address_sk
-and ca_state = 'IL'
+and ca_state = 'GA'
 and cs1.cs_call_center_sk = cc_call_center_sk
 and cc_county in ('Williamson County','Williamson County','Williamson County','Williamson County',
                   'Williamson County'

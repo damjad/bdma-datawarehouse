@@ -1,10 +1,10 @@
 Download TCP-DS from https://github.com/gregrahn/tpcds-kit
 Build the tool: 
-Generate the dataset: ./dsdgen -dir /tmp/dsd -scale 1  -verbose y -terminate n
+Generate the dataset: ./dsdgen -dir ~/ds-data -scale 30  -verbose y -terminate n
 Load the data in MySQL: http://eastcirclek.blogspot.com/2016/12/loading-tpc-ds-data-into-mysql.html
 
 
-
+./dsdgen -dir ~/ds-data -scale 30  -verbose y -terminate n && cd ~/bdma-datawarehouse/tpc-ds-postgres/scripts && ./postgres-db-load.sh 4 && ./postgres-execute-queries.sh 4
 
 
 1. Generate and Load the data for 1G
@@ -13,3 +13,44 @@ cd <tpc-ds-toolkit-version>/tools
 ./dsqgen -VERBOSE Y -DIALECT <dialectname> -DIRECTORY <query-template-dir> -SCALE <scale-factor> -OUTPUT_DIR <output-dir>
 2.1 Convert them using online tool: http://www.sqlines.com/online 
 3. Run the queries and verify the result set against provided.
+
+--------------------------------------------------------------------
+TPC-DS Benchmark - Report overview.
+
+1. Got the tool from the github repo with 2.10.0 version.
+2. Generated the data using `dsdgen` for 1G, 10G and 100G.
+3. Generated the queries using `dsqgen` for neteeza. Corrected the syntax.
+4. Ran the queries and validated the results. Results were not according to the expected ones as given in tpc answers set.
+5. Corrected the queries using Appendix B of the specification document.
+6. Validated the results.
+7. Ran the queries for 10G, 100G dataset.
+
+----------------------------------------------------------------------
+TPC-DS Extras
+
+1. Optimized some of the queries by analyzing the query plans.
+2. Used indices but it didn't help. Because whole table was loaded.
+3. Used Temp tables; the query time was reduced from ~1 hour to ~5 sec.
+
+
+
+---------------------------------------------------------------------
+Introduction: strengths and weakness. Why
+Technologies: postgres, gcp, tpc-ds
+
+Implementation:
+1. Got the tool from the github repo with 2.10.0 version.
+2. Generated the data using `dsdgen` for 1G, 10G and 100G.
+3. Generated the queries using `dsqgen` for neteeza. Corrected the syntax.
+4. Ran the queries and validated the results. Results were not according to the expected ones as given in tpc answers set.
+5. Corrected the queries using Appendix B of the specification document.
+6. Validated the results.
+7. Cloud Setup, steps specs of the machine.
+8. Ran the queries for 10G, 100G dataset.
+9. Improvements done in the query01 and it's run time after improvement on different datasets.
+
+
+
+Conclusion:
+Comparison of the improvements, directions etc.
+[don't know much ]

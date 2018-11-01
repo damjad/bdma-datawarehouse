@@ -1,4 +1,0 @@
-ERROR:  subquery in FROM must have an alias
-LINE 4:  (select iss.i_brand_id brand_id
-         ^
-HINT:  For example, FROM (SELECT ...) [AS] foo.

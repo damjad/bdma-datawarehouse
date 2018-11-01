@@ -1,3 +1,0 @@
-ERROR:  column "lochierarchy" does not exist
-LINE 21:    case when lochierarchy = 0 then i_category end,
-                      ^
