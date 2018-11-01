@@ -27,8 +27,8 @@ ls $QUERY_DIR/query*.sql | xargs -P $CORES -n 1 $SCRIPT_DIR/postgres-execute-que
  find $OUTPUT_DIR -size 0 -delete
 
 # Show all the queries that returned an error.
-if [ ! -z "`find $DB_RESULTS_DIR/* -name "*.err" -and ! -size 0`" ]; then
+if [ ! -z "`find $OUTPUT_DIR/* -name "*.err" -and ! -size 0`" ]; then
     echo "Following queries resulted in errors:"
-    find $DB_RESULTS_DIR/* -name "*.err" -and ! -size 0
+    find $OUTPUT_DIR/* -name "*.err" -and ! -size 0
     exit 1;
 fi

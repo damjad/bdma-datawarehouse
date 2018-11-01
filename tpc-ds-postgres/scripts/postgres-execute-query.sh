@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # For running a query in tpcds database.
-# USAGE: ./postgres-execute-query.sh <OUTPUT_DIR> <QUERY_FILE>
+# USAGE: ./postgres-execute-query.sh <OUTPUT_DIR> <DB_NAME> <QUERY_FILE>
 
 OUTPUT_DIR=$1
 DB_NAME=$2
