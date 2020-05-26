@@ -79,4 +79,4 @@ cd scripts
 ````
 
 ### Our results
-Results summary obtained from the execution of the tests are stored in statistics folder.
+Results summary obtained from the execution of the tests are stored in [statistics](statistics) folder.
